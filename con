@@ -1,0 +1,119 @@
+<?php include 'header.php';?>
+      <!-- Breadcrumbs Start -->
+      <div class="rs-breadcrumbs img2">
+        <div class="breadcrumbs-inner text-center">
+          <h1 class="page-title">Project Details</h1>
+        </div>
+      </div>
+      <!-- Breadcrumbs End -->
+      <!-- Services Single Start -->
+      <div class="rs-case-studies-single pt-120 pb-120 md-pt-80 md-pb-80">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 md-mb-50">
+              <div class="inner-div">
+                <div class="services-img">
+                  <img src="assets/images/project/single/ids-watchflixad.png" alt="">
+                </div>
+              </div>
+              <h2 class="mt-34">Expert People Launched Quality Projects</h2>
+              <p><b>Watchflixad</b> is a subscription model based system. Where users can signup/signin and watch movies/tv series/episodes by paying according to choosed plans.</p>
+              <p>It's a Fully responsive and with impressive pages loading speed system with desktop/mobile/tablet and all other screen resolutions. </p>
+              <h3 class="mt-34">Features:-</h3>
+              <h5 class="mt-34">Frontend:-</h5>
+              <ul class="listing-style">                              
+                <li>
+                  <i class="fa fa-check-circle"></i>
+                  <span>Supported signup/sign with username/email/phone number</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Ip based auto login system</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Coupon code based signup and rewards system (free trial sub)</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Support to provide free sub days for newly registered user to encourage them to purchase an premium plan</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Attractive home page with different types of movies/series sections</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Daily updated homepage with newly added content</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Well designed and responsive movies/Tv series/ episodes player pages</span>
+                </li> 
+                  <li>
+                      <i class="fa fa-check-circle"></i>
+                      <span>Support to send confirmation email to users on purchasing a premium plan</span>
+                  </li>                                 
+              </ul>
+              <h5 class="mt-34">Backend :-</h5>
+              <ul class="listing-style">                              
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Easy to use admin dashboard to control multiple operations of the system such as payment management,users management,plans management and much more.</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Dashboard page with the info of total number of available movie/TV series/ Episodes ,users,Total sale,current month total sale and much more.</span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Options (page) to manage invite coupons </span>
+                </li>
+                <li>
+                    <i class="fa fa-check-circle"></i>
+                    <span>Many other options to manage the whole system.</span>
+                </li>                           
+              </ul>
+              <h3 class="mt-34">UI/UX</h3>
+              <div class="services-img">
+                <img src="assets/images/project/single/ids-watchflixad2.jpg" alt="">
+              </div>
+              <h3 class="mt-34"></h3>
+              <div class="services-img">
+                <img src="assets/images/project/single/watchflixui.jpg" alt="">
+              </div>
+            </div>
+            <div class="col-lg-4 pl-32 md-pl-15">
+              <div class="ps-informations">
+                <h3 class="info-title">Project Info</h3>
+                <ul>
+                  <li>
+                    <span>Name:</span>Watchflixad
+                  </li>
+                  <li>
+                    <span>Location: </span>Canada
+                  </li>
+                  <li>
+                    <span>Under Working: </span>2023
+                  </li>
+                </ul>
+              </div>
+              <div class="services-add mt-50">
+                <div class="address-item mb-35">
+                  <div class="address-icon">
+                    <i class="fa fa-phone"></i>
+                  </div>
+                </div>
+                <h2 class="title">Have any Questions? <br> Call us Today! </h2>
+                <div class="contact">
+                  <a href="tel:+91-186-3590033"> +91-186-3590033</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Services Single End -->
+    </div>
+    <!-- Main content End -->
+    <?php include 'footer.php';?>
