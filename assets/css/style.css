@@ -271,7 +271,7 @@ ul {
 }
 
 .bg1 {
-    background: url(../images/bg/testimonial-bg.png);
+    background: url(assets/images/bg/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -279,7 +279,7 @@ ul {
 }
 
 .bg2 {
-    background: url(../images/bg/counter-bg.png);
+    background: url(assets/images/bg/counter-bg.png);
     background-color: #fff;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10228,7 +10228,7 @@ body .rs-project.style8 .project-item:hover .project-content .project-inner .cat
 }
 
 .rs-testimonial.style7 {
-    background: url(../images/bg/testimonial-bg.png);
+    background: url(assets/images/bg/testimonial-bg.png);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;

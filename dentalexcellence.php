@@ -23,7 +23,7 @@
               </ul>
               <p><strong>Customized Shopping Cart and Checkout:</strong> The shopping cart and the checkout process include every convenience to make the experience a memorable one for your customers and ensure repeat custom.</p>
               <div class="services-img">
-                <img src="/assets/images/project/main-home/dental-singleproducts.jpg" width="100%" alt="">
+                <img src="assets/images/project/main-home/dental-singleproducts.jpg" width="100%" alt="">
               </div>
             </div>
             <div class="col-lg-4 pl-32 md-pl-15">
