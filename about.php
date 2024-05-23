@@ -39,10 +39,6 @@
                   <p class="margin-0 pb-15">
                   We have years of experience, extensive knowledge, and skills as Software and web developer with all the latest technologies. Let our experts help you to take your business online with our client-focused and customer-centric software and web development services. Our team will assist you to transform your business with the latest technologies to stay ahead to grow your business faster.</p>
                </div>
-               <!-- <div class="btn-part">
-                  <a class="readon learn-more" href="contact.html">Learn-More</a>
-                  
-                  </div> -->
             </div>
          </div>
       </div>
@@ -67,10 +63,6 @@
       <div class="row align-items-center">
          <div class="col-lg-7">
             <div class="sec-title2 mb-30">
-               <!-- <div class="sub-text">OUR MISSION AND VISION</div>
-               <h2 class=" title title3 pb-20">
-                  A Place Driven by Values and Focused on Innovation!
-               </h2> -->
                <div class="desc desc2">
                   <h4 class="title cs-mission-visible pb-1">
                      A Place Driven by Values and Focused on Innovation!
@@ -93,10 +85,7 @@
          </div>
          <div class="col-lg-5 md-pt-40">
             <div class="rs-animation-image">
-               <!-- <div class="pattern-img">
-                  <img src="assets/images/about/style2/round.png" alt="">
-               </div> -->
-               <div class="">
+               <div>
                   <img width="400px" class="dance3" src="assets/images/about/ids-about.webp" alt="">
                </div>
             </div>
