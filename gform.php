@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="services-img">
-                  <img src="/assets/images/project/main-home/garvityform.jpg" alt="">
+                  <img src="assets/images/project/main-home/garvityform.jpg" alt="">
                 </div>
               </div>
               <h2 class="mt-34">Powerful data capture fueled by Gravity Forms.</h2>
@@ -28,7 +28,7 @@
 
               <p class="mt-4">Ultimately, the best progress bar design is one that effectively communicates progress information and provides a good user experience.</p>
               <div class="services-img">
-                <img src="/assets/images/project/main-home/emailtemplate.jpg" alt="">
+                <img src="assets/images/project/main-home/emailtemplate.jpg" alt="">
               </div>
               <div class="rs-testimonial style5">
                 <div class="testi-item">
