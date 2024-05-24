@@ -271,7 +271,7 @@ ul {
 }
 
 .bg1 {
-    background: url(assets/images/bg/testimonial-bg.png);
+    background: url(../../assets/images/bg/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
