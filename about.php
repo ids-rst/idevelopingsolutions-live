@@ -109,8 +109,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/1.png" alt="hover-image">
-                     <img class="main-img" src="assets/images/technology/style4/main-img/1.png" alt="hover-image">
+                     <img class="hover-img" src="assets/images/technology/hover-img/1.png" alt="hover-image">
+                     <img class="main-img" src="assets/images/technology/main-img/1.png" alt="hover-image">
                      </a>
                   </div>
                </div>
@@ -124,8 +124,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/php.png" alt="grid-image" style="height:32px;">
-                     <img class="main-img" src="assets/images/technology/style4/main-img/php.png" alt="grid-image" style="height:32px;">
+                     <img class="hover-img" src="assets/images/technology/hover-img/php.png" alt="grid-image" style="height:32px;">
+                     <img class="main-img" src="assets/images/technology/main-img/php.png" alt="grid-image" style="height:32px;">
                      </a>
                   </div>
                </div>
@@ -139,8 +139,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/3.png" alt="grid-image">
-                     <img class="main-img" src="assets/images/technology/style4/main-img/3.png" alt="grid-image">
+                     <img class="hover-img" src="assets/images/technology/hover-img/3.png" alt="grid-image">
+                     <img class="main-img" src="assets/images/technology/main-img/3.png" alt="grid-image">
                      </a>
                   </div>
                </div>
@@ -154,8 +154,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/react.png" alt="grid-image" style="height:32px;">
-                     <img class="main-img" src="assets/images/technology/style4/main-img/react.png" alt="grid-image" style="height:32px;">
+                     <img class="hover-img" src="assets/images/technology/hover-img/react.png" alt="grid-image" style="height:32px;">
+                     <img class="main-img" src="assets/images/technology/main-img/react.png" alt="grid-image" style="height:32px;">
                      </a>
                   </div>
                </div>
@@ -169,8 +169,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/js.png" alt="grid-image" style="height:32px;" >
-                     <img class="main-img" src="assets/images/technology/style4/main-img/js.png" alt="grid-image" style="height:32px;">
+                     <img class="hover-img" src="assets/images/technology/hover-img/js.png" alt="grid-image" style="height:32px;" >
+                     <img class="main-img" src="assets/images/technology/main-img/js.png" alt="grid-image" style="height:32px;">
                      </a>
                   </div>
                </div>
@@ -184,8 +184,8 @@
                <div class="rs-grid-figure">
                   <div class="logo-img">
                      <a>
-                     <img class="hover-img" src="assets/images/technology/style4/hover-img/6.png" alt="grid-image">
-                     <img class="main-img" src="assets/images/technology/style4/main-img/6.png" alt="grid-image">
+                     <img class="hover-img" src="assets/images/technology/hover-img/6.png" alt="grid-image">
+                     <img class="main-img" src="assets/images/technology/main-img/6.png" alt="grid-image">
                      </a>
                   </div>
                </div>
