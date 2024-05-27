@@ -696,7 +696,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/home/img-1.png" alt="">
+                     <img src="assets/images/home/p1.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Discovery</h3>
@@ -708,7 +708,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/home/img-2.png" alt="">
+                     <img src="assets/images/home/p2.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title"> Planning</h3>
@@ -720,7 +720,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/home/img-3.png" alt="">
+                     <img src="assets/images/home/p3.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Execute</h3>
@@ -732,7 +732,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/home/img-4.png" alt="">
+                     <img src="assets/images/home/p4.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Deliver</h3>
@@ -786,7 +786,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/photo-2.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/growth.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -797,7 +797,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/photo-3.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/latform.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -808,7 +808,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/photo-4.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Innovative.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -819,7 +819,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/photo-5.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Product.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -830,7 +830,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/photo-6.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Analytic.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -852,7 +852,7 @@
    <div class="container">
       <div class="shape-animation postion-inherit">
          <div class="shape-part">
-            <img class="dance" src="assets/images/services/s2.png" alt="images">
+            <img class="dance" src="assets/images/home/s2.png" alt="images">
          </div>
       </div>
       <div class="title">
@@ -864,7 +864,7 @@
          <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/team.JPG" class="img-circle img-responsive" />
+                  <img src="assets/images/home/image3.jpg" class="img-circle img-responsive" />
                   <p> "I thoroughly enjoy collaborating with Team India Dialing. Their commitment to excellence consistently surpasses expectations. They exhibit remarkable speed, reliability, and expertise in their work. Without hesitation, I look forward to future collaborations with them and wholeheartedly endorse their services."</p>
                </div>
             </div>
