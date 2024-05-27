@@ -819,7 +819,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/Product.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/product.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
