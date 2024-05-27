@@ -271,7 +271,7 @@ ul {
 }
 
 .bg1 {
-    background: url(assets/images/bg/testimonial-bg.png);
+    background: url(../../assets/images/home/testimonial-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -366,7 +366,7 @@ ul {
 }
 
 .bg12 {
-    background: url(../images/bg/case-study.jpg);
+    background: url(../images/home/case-study.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;

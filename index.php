@@ -14,7 +14,7 @@
                   <a class="readon buy-now sl-btn" href="about.php">Get A Quote</a>
                </div>
                <div class="sl-img wow" data-wow-delay="600ms" data-wow-duration="2000ms">
-                  <img src="assets/images/slider/style2/PNG.webp" alt="slider">
+                  <img src="assets/images/home/PNG.webp" alt="slider">
                </div>
             </div>
          </div>
@@ -32,7 +32,7 @@
                   <a class="readon buy-now sl-btn" href="about.php">Get started now</a>
                </div>
                <div class="sl-img wow" data-wow-delay="600ms" data-wow-duration="2000ms">
-                  <img src="assets/images/slider/style2/slide2.png" alt="slider">
+                  <img src="assets/images/home/slide2.png" alt="slider">
                </div>
             </div>
          </div>
@@ -66,10 +66,10 @@
          <div class="col-lg-7 md-pt-40">
             <div class="rs-animation-image">
                <div class="pattern-img">
-                  <img src="assets/images/about/style2/round.png" alt="">
+                  <img src="assets/images/home/round.png" alt="">
                </div>
                <div class="middle-img">
-                  <img class="dance3" src="assets/images/about/style2/about1.png" alt="">
+                  <img class="dance3" src="assets/images/home/about1.png" alt="">
                </div>
             </div>
          </div>
@@ -93,7 +93,7 @@
          <div class="col-md-4">
             <div class="services-item">
                <div class="services-icon">
-                  <img src="assets/images/services/style4/1.png" alt="">
+                  <img src="assets/images/home/1.png" alt="">
                </div>
                <div class="services-content">
                   <h2 class="title">Focus on Quality Work</h2>
@@ -106,7 +106,7 @@
          <div class="col-md-4">
             <div class="services-item active">
                <div class="services-icon">
-                  <img src="assets/images/services/style4/2.png" alt="">
+                  <img src="assets/images/home/2.png" alt="">
                </div>
                <div class="services-content">
                   <h2 class="title">Long-Term Relationships</a></h2>
@@ -119,7 +119,7 @@
          <div class="col-md-4">
             <div class="services-item">
                <div class="services-icon">
-                  <img src="assets/images/services/style4/3.png" alt="">
+                  <img src="assets/images/home/3.png" alt="">
                </div>
                <div class="services-content">
                   <h2 class="title">Quality Work is Our Passion</a></h2>
@@ -150,7 +150,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/custom_software_development_service.svg" alt="">
+                              <img src="assets/images/home/custom_software_development_service.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -186,7 +186,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/web_development_service.svg" alt="">
+                              <img src="assets/images/home/web_development_service.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -224,7 +224,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/mobileapp_devlopement_service.svg" alt="">
+                              <img src="assets/images/home/mobileapp_devlopement_service.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -261,7 +261,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/dedicated_team_service.svg" alt="">
+                              <img src="assets/images/home/dedicated_team_service.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -298,7 +298,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/product_development_service.svg" alt="">
+                              <img src="assets/images/home/product_development_service.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -334,7 +334,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/e-commerce.svg" alt="">
+                              <img src="assets/images/home/e-commerce.svg" alt="">
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -369,7 +369,7 @@
    </div>
    <div class="shape-animation">
       <div class="shape-part">
-         <img class="dance" src="assets/images/services/s2.png" alt="images">
+         <img class="dance" src="assets/images/home/s2.png" alt="images">
       </div>
    </div>
 </div>
@@ -396,7 +396,7 @@
             <a href="buybulk-project.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/buybulk.jpg" alt="buybulkshrooms">
+                     <img src="assets/images/home/buybulk.jpg" alt="buybulkshrooms">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -411,7 +411,7 @@
             <a href="abwill.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/garvityform.jpg" alt="abwills">
+                     <img src="assets/images/home/garvityform.jpg" alt="abwills">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -426,7 +426,7 @@
             <a href="ids-redfox.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/redfox.jpg" alt="images">
+                     <img src="assets/images/home/redfox.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -441,7 +441,7 @@
             <a href="ids-firstaid.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/fristaid-port.jpg" alt="images">
+                     <img src="assets/images/home/fristaid-port.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -456,7 +456,7 @@
             <a href="watchflixad.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/style4/watchflix.jpg" alt="images">
+                     <img src="assets/images/home/watchflix.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -471,7 +471,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/style5/6.jpg" alt="images">
+                     <img src="assets/images/home/6.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -486,7 +486,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/style4/logo-design.jpg" alt="images">
+                     <img src="assets/images/home/logo-design.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -501,7 +501,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/american-portfolio.jpg" alt="images">
+                     <img src="assets/images/home/american-portfolio.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -516,7 +516,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/dental.jpg" alt="images">
+                     <img src="assets/images/home/dental.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -531,7 +531,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/project/main-home/usercard.jpg" alt="images">
+                     <img src="assets/images/home/usercard.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -551,7 +551,7 @@
       <div class="row rs-vertical-middle">
          <div class="col-lg-6">
             <div class="image-part">
-               <img src="assets/images/call-us/contact-here.png" alt="">
+               <img src="assets/images/home/contact-here.png" alt="">
             </div>
          </div>
          <div class="col-lg-6">
@@ -628,7 +628,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/1.png" alt="">
+                     <img src="assets/images/home/p1.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Discovery</h3>
@@ -640,7 +640,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/2.png" alt="">
+                     <img src="assets/images/home/p2.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title"> Planning</h3>
@@ -652,7 +652,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/3.png" alt="">
+                     <img src="assets/images/home/p3.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Execute</h3>
@@ -664,7 +664,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/4.png" alt="">
+                     <img src="assets/images/home/p4.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Deliver</h3>
@@ -699,7 +699,7 @@
                <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/project-design.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/project-design.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -710,7 +710,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/2.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/growth.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -721,7 +721,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/3.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/latform.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -732,7 +732,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/4.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Innovative.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -743,7 +743,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/5.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Product.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -754,7 +754,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/project/main-home/6.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/Analytic.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -775,7 +775,7 @@
    <div class="container">
       <div class="shape-animation postion-inherit">
          <div class="shape-part">
-            <img class="dance" src="assets/images/services/s2.png" alt="images">
+            <img class="dance" src="assets/images/home/s2.png" alt="images">
          </div>
       </div>
       <div class="title">
@@ -786,20 +786,20 @@
          <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                <div class="testimonial4_slide">
-                  <img src="https://i.ibb.co/8x9xK4H/team.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/image3.jpg" class="img-circle img-responsive" />
                   <p> "I thoroughly enjoy collaborating with Team India Dialing. Their commitment to excellence consistently surpasses expectations. They exhibit remarkable speed, reliability, and expertise in their work. Without hesitation, I look forward to future collaborations with them and wholeheartedly endorse their services."</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/team/style1/download.jpeg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/download.jpeg" class="img-circle img-responsive" />
                   <p>Your team's proficiency in embracing cutting-edge technology is truly commendable. Entrusting my project to your capable hands has been a gratifying experience. I take immense pride in the outcome we've achieved together. Your unwavering commitment to excellence, coupled with your refusal to accept limitations, has been invaluable to me. I deeply appreciate your dedication and can-do attitude.
                   </p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/team/style1/images (4).jpeg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/images (4).jpeg" class="img-circle img-responsive" />
                   <p>The India Dialing Team has been exceptional. Over the past year, they've assisted me in crafting a few websites that we're now genuinely delighted with. Whenever adjustments are needed, I can effortlessly log in and make them myself in just a few minutes. The user-friendly interface allows me to update and modify content on our websites as our businesses evolve. </p>
                </div>
             </div>
