@@ -32,7 +32,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/custom_software_development_service.svg" alt=""> 
+                              <img src="assets/images/our-services/custom_software_development_service.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -68,7 +68,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/web_development_service.svg" alt=""> 
+                              <img src="assets/images/our-services/web_development_service.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -104,7 +104,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/mobileapp_devlopement_service.svg" alt=""> 
+                              <img src="assets/images/our-services/mobileapp_devlopement_service.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -140,7 +140,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/dedicated_team_service.svg" alt=""> 
+                              <img src="assets/images/our-services/dedicated_team_service.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -176,7 +176,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/product_development_service.svg" alt=""> 
+                              <img src="assets/images/our-services/product_development_service.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
@@ -212,7 +212,7 @@
                      <div class="front-content-part">
                         <div class="front-icon-part">
                            <div class="icon-part">
-                              <img src="assets/images/services/main-home/icons/e-commerce.svg" alt=""> 
+                              <img src="assets/images/our-services/e-commerce.svg" alt=""> 
                            </div>
                         </div>
                         <div class="front-title-part">
