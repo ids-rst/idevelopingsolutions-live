@@ -19,10 +19,10 @@
          <div class="col-lg-6 md-mb-30">
             <div class="rs-animation-shape">
                <div class="images">
-                  <img src="assets/images/about/about-3.png" alt="">
+                  <img src="assets/images/about-us/about-3.png" alt="">
                </div>
                <div class="middle-image2">
-                  <img class="dance3" src="assets/images/about/effect-1.png" alt="">
+                  <img class="dance3" src="assets/images/about-us/effect-1.png" alt="">
                </div>
             </div>
          </div>
@@ -43,7 +43,7 @@
          </div>
       </div>
       <div class="shape-image">
-         <img class="top dance" src="assets/images/about/dotted-3.png" alt="">
+         <img class="top dance" src="assets/images/about-us/dotted-3.png" alt="">
       </div>
    </div>
    <div class="line-inner style2">
@@ -86,7 +86,7 @@
          <div class="col-lg-5 md-pt-40">
             <div class="rs-animation-image">
                <div>
-                  <img width="400px" class="dance3" src="assets/images/about/ids-about.webp" alt="">
+                  <img width="400px" class="dance3" src="assets/images/about-us/ids-about.webp" alt="">
                </div>
             </div>
          </div>
