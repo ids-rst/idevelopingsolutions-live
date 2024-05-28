@@ -80,7 +80,7 @@
 
                             <div class="software-img">
 
-                                <img src="assets/images/our-services/100.jpg" alt="images">
+                                <img src="assets/images/services/100.jpg" alt="images">
 
                             </div>
 
@@ -104,7 +104,7 @@
 
                                     <div class="services-icon">
 
-                                       <img src="assets/images/our-services/1.png" alt="Images"> 
+                                       <img src="assets/images/services/1.png" alt="Images"> 
 
                                     </div>
 
@@ -128,7 +128,7 @@
 
                                     <div class="services-icon">
 
-                                       <img src="assets/images/our-services/2.png" alt="Images"> 
+                                       <img src="assets/images/services/2.png" alt="Images"> 
 
                                     </div>
 
@@ -154,7 +154,7 @@
 
                                     <div class="services-icon">
 
-                                       <img src="assets/images/our-services/3.png" alt="Images"> 
+                                       <img src="assets/images/services/3.png" alt="Images"> 
 
                                     </div>
 
@@ -202,7 +202,7 @@
 
                             <div class="choose-img">
 
-                               <img src="assets/images/our-services/watch.png" alt="images">
+                               <img src="assets/images/services/watch.png" alt="images">
 
                             </div>
 

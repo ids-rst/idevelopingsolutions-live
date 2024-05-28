@@ -37,7 +37,7 @@
       </div>
       <div class="col-lg-6">
         <div class="software-img">
-          <img src="assets/images/our-services/PNG.webp" alt="images">
+          <img src="assets/images/services/PNG.webp" alt="images">
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
         <div class="col-lg-4 md-mb-30">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/our-services/android-logo.png" alt="Images" style="height:auto;"> 
+              <img src="assets/images/services/android-logo.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
               <h3 class="services-title mb-0">Android App Development</h3>
@@ -59,7 +59,7 @@
         <div class="col-lg-4 md-mb-30">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/our-services/small-ios.png" alt="Images" style="height:auto;"> 
+              <img src="assets/images/services/small-ios.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
               <h3 class="services-title mb-0">iOS App Development</h3>
@@ -69,7 +69,7 @@
         <div class="col-lg-4">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/our-services/Phonegap.png" alt="Images" style="height:auto;"> 
+              <img src="assets/images/services/Phonegap.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
               <h3 class="services-title mb-0">Hybrid App Development</h3>
@@ -87,7 +87,7 @@
     <div class="row">
       <div class="col-lg-6 pr-45 md-pr-15 md-mb-50">
         <div class="choose-img">
-          <img src="assets/images/our-services/watch.png" alt="images">
+          <img src="assets/images/services/watch.png" alt="images">
         </div>
       </div>
       <div class="col-lg-6">
