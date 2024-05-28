@@ -303,7 +303,7 @@ ul {
 }
 
 .bg4 {
-    background: url(../images/bg/about-2.jpg);
+    background: url(../images/about-us/about-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -3902,7 +3902,7 @@ body .search-modal .close:hover {
 }
 
 .rs-breadcrumbs.img1 {
-    background: url(../images/breadcrumbs/1.jpg);
+    background: url(../images/about-us/1.jpg);
     background-position: center top;
 }
 
