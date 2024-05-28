@@ -10,7 +10,7 @@
          <div class="row">
             <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
                <div class="footer-logo mb-30">
-                  <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
+                  <a href="index.php"><img src="assets/images/footer/logo-dark.png" alt=""></a>
                </div>
                <div class="textwidget pb-30 text-center">
                   <p class=" mw-100">The Best IT services for your success</p>
@@ -64,7 +64,7 @@
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12">
                <h3 class="widget-title">Reputation</h3>
-               <img src="assets/images/iso-1.png">
+               <img src="assets/images/footer/iso-1.png">
             </div>
          </div>
       </div>
