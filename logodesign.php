@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="services-img">
-                  <img src="assets/images/project/main-home/logo-design.jpg" alt="">
+                  <img src="assets/images/portfolio/logo-design.jpg" alt="">
                 </div>
               </div>
               <p class="mt-34">A logo is generally a combination of typographies, graphics/symbols, and colors. It is a graphic element that is part of the visual identity of a brand.</p>

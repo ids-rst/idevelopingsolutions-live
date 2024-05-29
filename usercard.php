@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="services-img">
-                  <img src="assets/images/project/main-home/usercard.jpg" alt="">
+                  <img src="assets/images/portfolio/usercard.jpg" alt="">
                 </div>
               </div>
               <p class="mt-3"><strong>Discord platform helps you to make it easier for you to talk regularly with the people you care about.</strong></p>

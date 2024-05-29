@@ -396,7 +396,7 @@
             <a href="buybulk-project.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/buybulk.jpg" alt="buybulkshrooms">
+                     <img src="assets/images/portfolio/buybulk.jpg" alt="buybulkshrooms">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -411,7 +411,7 @@
             <a href="abwill.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/garvityform.jpg" alt="abwills">
+                     <img src="assets/images/portfolio/garvityform.jpg" alt="abwills">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -426,7 +426,7 @@
             <a href="ids-redfox.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/redfox.jpg" alt="images">
+                     <img src="assets/images/portfolio/redfox.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -441,7 +441,7 @@
             <a href="ids-firstaid.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/fristaid-port.jpg" alt="images">
+                     <img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -456,7 +456,7 @@
             <a href="watchflixad.php">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/watchflix.jpg" alt="images">
+                     <img src="assets/images/portfolio/watchflix.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -471,7 +471,7 @@
             <a href="   ">
                <div class="project-item">
                   <div class="project-img mt-30">
-                     <img src="assets/images/home/6.jpg" alt="images">
+                     <img src="assets/images/portfolio/6.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -486,7 +486,7 @@
             <a href="   ">
                <div class="project-item">
                   <div class="project-img">
-                     <img src="assets/images/home/logo-design.jpg" alt="images">
+                     <img src="assets/images/portfolio/logo-design.jpg" alt="images">
                   </div>
                   <div class="project-content mt-30">
                      <div class="project-inner">
@@ -501,7 +501,7 @@
             <a href="   ">
                <div class="project-item">
                   <div class="project-img">
-                     <img src="assets/images/home/american-portfolio.jpg" alt="images">
+                     <img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
                   </div>
                   <div class="project-content mt-30">
                      <div class="project-inner">
@@ -516,7 +516,7 @@
             <a href="   ">
                <div class="project-item">
                   <div class="project-img">
-                     <img src="assets/images/home/dental.jpg" alt="images">
+                     <img src="assets/images/portfolio/dental.jpg" alt="images">
                   </div>
                   <div class="project-content mt-30">
                      <div class="project-inner">
@@ -531,7 +531,7 @@
             <a href="   ">
                <div class="project-item mt-30">
                   <div class="project-img">
-                     <img src="assets/images/home/usercard.jpg" alt="images">
+                     <img src="assets/images/portfolio/usercard.jpg" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">

@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="screen">
-                  <img src="assets/images/project/main-home/screen-portfolio.jpg">
+                  <img src="assets/images/portfolio/screen-portfolio.jpg">
                 </div>
               </div>
               <h2 class="mt-34">Used WoodMart WooCommerce WordPress Theme</h2>
