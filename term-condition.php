@@ -40,7 +40,7 @@
 
                             <div class="images-part">
 
-                                <img src="assets/images/about/about-home.png" alt="">
+                                <img src="assets/images/terms-conditions/about-home.png" alt="">
 
                             </div>
 
