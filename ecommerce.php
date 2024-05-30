@@ -37,7 +37,7 @@
       </div>
       <div class="col-lg-6">
         <div class="software-img">
-          <img src="assets/images/about/about-us/ecommerce-development.png" alt="images">
+          <img src="assets/images/services/ecommerce-development.png" alt="images">
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
         <div class="col-lg-4 md-mb-30">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/services/style7/1.png" alt="Images">
+              <img src="assets/images/services/1.png" alt="Images">
             </div>
             <div class="services-content">
               <h3 class="services-title">Expert Peoples</h3>
@@ -62,7 +62,7 @@
         <div class="col-lg-4 md-mb-30">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/services/style7/2.png" alt="Images">
+              <img src="assets/images/services/2.png" alt="Images">
             </div>
             <div class="services-content">
               <h3 class="services-title">First Growing Process</h3>
@@ -75,7 +75,7 @@
         <div class="col-lg-4">
           <div class="services-item">
             <div class="services-icon">
-              <img src="assets/images/services/style7/3.png" alt="Images">
+              <img src="assets/images/services/3.png" alt="Images">
             </div>
             <div class="services-content">
               <h3 class="services-title">Creative Ideas</h3>
@@ -96,7 +96,7 @@
     <div class="row">
       <div class="col-lg-6 pr-45 md-pr-15 md-mb-50">
         <div class="choose-img">
-          <img src="assets/images/choose/3.png" alt="images">
+          <img src="assets/images/services/watch.png" alt="images">
         </div>
       </div>
       <div class="col-lg-6">
