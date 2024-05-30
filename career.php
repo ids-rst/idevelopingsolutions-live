@@ -29,7 +29,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/php-r.png" alt="">
+                     <img src="assets/images/career/php-r.png" alt="">
                   </div>
                   <div class="process-text ">
                      <h3 class="title">PHP Developer</h3>
@@ -45,7 +45,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/react.png" alt="">
+                     <img src="assets/images/career/react.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title"> React Native Developer</h3>
@@ -61,7 +61,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/flutter.png" alt="">
+                     <img src="assets/images/career/flutter.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Flutter Developer</h3>
@@ -77,7 +77,7 @@
             <div class="addon-process">
                <div class="process-wrap">
                   <div class="process-img">
-                     <img src="assets/images/process/html.png" alt="">
+                     <img src="assets/images/career/html.png" alt="">
                   </div>
                   <div class="process-text">
                      <h3 class="title">Web Designer</h3>
