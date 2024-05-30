@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="services-img">
-                  <img src="assets/images/project/main-home/garvityform.jpg" alt="">
+                  <img src="assets/images/portfolio/garvityform.jpg" alt="">
                 </div>
               </div>
               <h2 class="mt-34">Powerful data capture fueled by Gravity Forms.</h2>
@@ -28,17 +28,17 @@
 
               <p class="mt-4">Ultimately, the best progress bar design is one that effectively communicates progress information and provides a good user experience.</p>
               <div class="services-img">
-                <img src="assets/images/project/main-home/emailtemplate.jpg" alt="">
+                <img src="assets/images/portfolio/emailtemplate.jpg" alt="">
               </div>
               <div class="rs-testimonial style5">
                 <div class="testi-item">
                     <div class="testi-img">
-                        <img src="assets/images/testimonial/main-home/quote-white2.png" alt="">
+                        <img src="assets/images/portfolio/quote-white2.png" alt="">
                     </div>
                     <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias data.</p>
                     <div class="testi-content">
                         <div class="testi-img">
-                            <img src="assets/images/testimonial/main-home/5.jpg" alt="">
+                            <img src="assets/images/portfolio/5.jpg" alt="">
                         </div>
                         <div class="author-part">
                             <div class="name">Brick John</div>

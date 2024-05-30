@@ -24,7 +24,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/watchflix.jpg" alt="images">
+						<img src="assets/images/portfolio/watchflix.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="watchflixad.php">
@@ -40,7 +40,7 @@
 			<div class="col-lg-4 col-md-6 sm-mb-25">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/buybulk.jpg" alt="images">
+						<img src="assets/images/portfolio/buybulk.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="buybulkshrooms.php">
@@ -56,7 +56,7 @@
 			<div class="col-lg-4 col-md-6 sm-mb-25">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/garvityform.jpg" alt="images">
+						<img src="assets/images/portfolio/garvityform.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="gform.php">
@@ -72,7 +72,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/logo-design.jpg" alt="images">
+						<img src="assets/images/portfolio/logo-design.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="logodesign.php">
@@ -88,7 +88,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/fristaid-port.jpg" alt="images">
+						<img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="firstaid.php">
@@ -104,7 +104,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/american-portfolio.jpg" alt="images">
+						<img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="americanfiddle.php">
@@ -120,7 +120,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/dental.jpg" alt="images">
+						<img src="assets/images/portfolio/dental.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="dentalexcellence.php">
@@ -136,7 +136,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/redfox.jpg" alt="images">
+						<img src="assets/images/portfolio/redfox.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="ids-redfox.php">
@@ -152,7 +152,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/project/main-home/usercard.jpg" alt="images">
+						<img src="assets/images/portfolio/usercard.jpg" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="usercard.php">

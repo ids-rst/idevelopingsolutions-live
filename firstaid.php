@@ -13,7 +13,7 @@
             <div class="col-lg-8 md-mb-50">
               <div class="inner-div">
                 <div class="services-img">
-                  <img src="assets/images/project/single/fristaid.jpg" alt="">
+                  <img src="assets/images/portfolio/fristaid.jpg" alt="">
                 </div>
               </div>
               <h2 class="mt-34">Practical & Engaging first aid training courses in Bristol & Bath</h2>
@@ -67,7 +67,7 @@
               <h3 class="mt-34">Technology:-<small> Angular JS , Bootstrap</small></h3>
               <h3 class="mt-34">UI/UX</h3>
               <div class="services-img">
-                <img src="assets/images/project/single/fristaid3.jpg" alt="">
+                <img src="assets/images/portfolio/fristaid3.jpg" alt="">
               </div>
             </div>
             <div class="col-lg-4 pl-32 md-pl-15">
