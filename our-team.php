@@ -40,7 +40,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a> <img src="assets/images/team/style1/sanjeev.jpg" alt="Sanjeev"></a>
+								<a> <img src="assets/images/our-team/sanjeev.jpg" alt="Sanjeev"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -51,7 +51,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/vivek.jpg" alt="vivek"></a>
+								<a><img src="assets/images/our-team/vivek.jpg" alt="vivek"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -62,7 +62,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/simran.jpg" alt="Simran"></a>
+								<a><img src="assets/images/our-team/simran.jpg" alt="Simran"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -73,7 +73,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/rajindersingh.jpg" alt="rajinder"></a>
+								<a><img src="assets/images/our-team/rajindersingh.jpg" alt="rajinder"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -84,7 +84,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/shubham.jpg" alt="shubham"></a>
+								<a><img src="assets/images/our-team/shubham.jpg" alt="shubham"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -95,7 +95,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/ashish-ids.jpg" alt="ashish"></a>
+								<a><img src="assets/images/our-team/ashish-ids.jpg" alt="ashish"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -106,7 +106,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/pankajchouhan.jpg" alt="pankajchouhan"></a>
+								<a><img src="assets/images/our-team/pankajchouhan.jpg" alt="pankajchouhan"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -117,7 +117,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/sunil-ids.jpg" alt="sunil"></a>
+								<a><img src="assets/images/our-team/sunil-ids.jpg" alt="sunil"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -128,7 +128,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/chetan-ids.jpg" alt="Chetan"></a>
+								<a><img src="assets/images/our-team/chetan-ids.jpg" alt="Chetan"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -139,7 +139,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/Pankajsingh.jpg" alt="Pankajsingh"></a>
+								<a><img src="assets/images/our-team/Pankajsingh.jpg" alt="Pankajsingh"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -150,7 +150,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/sandeep.jpg" alt="Sandeeppathania"></a>
+								<a><img src="assets/images/our-team/sandeep.jpg" alt="Sandeeppathania"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -161,7 +161,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/harminder.jpg" alt="harminder"></a>
+								<a><img src="assets/images/our-team/harminder.jpg" alt="harminder"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -172,7 +172,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/shubhamdesigner.jpg" alt="Shubhamdesigner"></a>
+								<a><img src="assets/images/our-team/shubhamdesigner.jpg" alt="Shubhamdesigner"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -183,7 +183,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/Gourav.JPEG" alt="aman"></a>
+								<a><img src="assets/images/our-team/gourav.jpg" alt="aman"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -194,7 +194,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/Nitish.jpg" alt="aman"></a>
+								<a><img src="assets/images/our-team/Nitish.jpg" alt="aman"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">
@@ -205,7 +205,7 @@
 					<div class="team-item-wrap">
 						<div class="team-wrap">
 							<div class="image-inner">
-								<a><img src="assets/images/team/style1/mitesh.png" alt="aman"></a>
+								<a><img src="assets/images/our-team/mitesh.png" alt="aman"></a>
 							</div>
 						</div>
 						<div class="team-content text-center">

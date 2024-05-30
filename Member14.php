@@ -94,7 +94,7 @@
 
                                 <div class="images-part">
 
-                                    <img src="assets/images/team/style1/shubhamdesigner.jpg" alt="Shubhamdesigner">
+                                    <img src="assets/images/our-team/shubhamdesigner.jpg" alt="Shubhamdesigner">
 
                                 </div>
 
