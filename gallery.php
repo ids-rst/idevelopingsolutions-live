@@ -227,32 +227,32 @@
       <div class="carousel-inner mx-auto w-90" role="listbox" data-toggle="modal" data-target="#lightbox">
         <div class="carousel-item active">
           <div class="col-lg-5 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-1.jpg" data-target="#lightbox-gallery" data-slide-to="0">
+            <img class="img-fluid" src="assets/images/gallery/pic-1.jpg" data-target="#lightbox-gallery" data-slide-to="0">
           </div>
         </div>
         <div class="carousel-item">
           <div class="col-lg-3 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-2.jpg" data-target="#lightbox-gallery" data-slide-to="1">
+            <img class="img-fluid" src="assets/images/gallery/pic-2.jpg" data-target="#lightbox-gallery" data-slide-to="1">
           </div>
         </div>
         <div class="carousel-item">
           <div class="col-lg-3 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-3.jpg" data-target="#lightbox-gallery" data-slide-to="2">
+            <img class="img-fluid" src="assets/images/gallery/pic-3.jpg" data-target="#lightbox-gallery" data-slide-to="2">
           </div>
         </div>
         <div class="carousel-item">
           <div class="col-lg-3 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-4.jpg" data-target="#lightbox-gallery" data-slide-to="3">
+            <img class="img-fluid" src="assets/images/gallery/pic-4.jpg" data-target="#lightbox-gallery" data-slide-to="3">
           </div>
         </div>
         <div class="carousel-item">
           <div class="col-lg-3 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-5.jpg" data-target="#lightbox-gallery" data-slide-to="4">
+            <img class="img-fluid" src="assets/images/gallery/pic-5.jpg" data-target="#lightbox-gallery" data-slide-to="4">
           </div>
         </div>
         <div class="carousel-item">
           <div class="col-lg-3 col-md-3">
-            <img class="img-fluid" src="assets/images/team/style1/gallery/pic-6.jpg" data-target="#lightbox-gallery" data-slide-to="5">
+            <img class="img-fluid" src="assets/images/gallery/pic-6.jpg" data-target="#lightbox-gallery" data-slide-to="5">
           </div>
         </div>
       </div>
