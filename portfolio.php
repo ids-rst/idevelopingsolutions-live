@@ -20,13 +20,13 @@
 				We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
 			</div>
 		</div>
-		<div class="row">
+		<div class="row icon-position">
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
 						<img src="assets/images/portfolio/watchflix.jpg" alt="images">
 					</div>
-					<div class="project-content">
+					<div class="project-content ">
 						<a href="watchflixad.php">
 							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
 						</a>
