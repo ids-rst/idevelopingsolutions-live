@@ -9118,8 +9118,8 @@ body .search-modal .close:hover {
 	right: 0px;
 	bottom: 20px;
 	text-align: right;
-	width: 50px;
-	height: 50px;
+	width: 44px;
+	height: 44px;
 	line-height: 50px;
 	text-align: center;
 	background: #fff;
@@ -11909,7 +11909,7 @@ body .rs-project.style8 .project-item:hover .project-content .project-inner .cat
 
 
 .icon-position .project-content .fa.fa-angle-right {
-	padding: 14px;
+	padding: 12px;
 }
 
 

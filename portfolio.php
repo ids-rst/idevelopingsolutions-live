@@ -28,7 +28,7 @@
 					</div>
 					<div class="project-content ">
 						<a href="watchflixad.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="watchflixad.php">Watchflixad</a></h3>
@@ -44,7 +44,7 @@
 					</div>
 					<div class="project-content">
 						<a href="buybulkshrooms.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="buybulkshrooms.php">Buybulkshrooms</a></h3>
@@ -60,7 +60,7 @@
 					</div>
 					<div class="project-content">
 						<a href="gform.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="gform.php">Gravity Form UI/UX </a></h3>
@@ -76,7 +76,7 @@
 					</div>
 					<div class="project-content">
 						<a href="logodesign.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="logodesign.php">Logo UI</a></h3>
@@ -92,7 +92,7 @@
 					</div>
 					<div class="project-content">
 						<a href="firstaid.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="firstaid.php">Frist aid</a></h3>
@@ -108,7 +108,7 @@
 					</div>
 					<div class="project-content">
 						<a href="americanfiddle.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="americanfiddle.php">American Fiddle Method</a></h3>
@@ -124,7 +124,7 @@
 					</div>
 					<div class="project-content">
 						<a href="dentalexcellence.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="dentalexcellence.php">Dentalexcellence</a></h3>
@@ -140,7 +140,7 @@
 					</div>
 					<div class="project-content">
 						<a href="ids-redfox.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="ids-redfox.php">Redfoxmachinery</a></h3>
@@ -156,7 +156,7 @@
 					</div>
 					<div class="project-content">
 						<a href="usercard.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+							<div class="p-icon"><i class="fa fa-angle-left"></i></div>
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="usercard.php">User Card</a></h3>
