@@ -394,7 +394,7 @@
       <div class="row grid">
          <div class="col-lg-4 col-md-6 grid-item filter1">
             <a href="buybulk-project.php">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/buybulk.jpg" alt="buybulkshrooms">
                   </div>
@@ -409,7 +409,7 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter3 filter1">
             <a href="abwill.php">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/garvityform.jpg" alt="abwills">
                   </div>
@@ -424,7 +424,7 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter3 filter2">
             <a href="ids-redfox.php">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/redfox.jpg" alt="images">
                   </div>
@@ -439,7 +439,7 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="ids-firstaid.php">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
                   </div>
@@ -454,7 +454,7 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter2 filter3">
             <a href="watchflixad.php">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/watchflix.jpg" alt="images">
                   </div>
@@ -469,8 +469,8 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
-               <div class="project-item">
-                  <div class="project-img mt-30">
+               <div class="project-item mb-30">
+                  <div class="project-img ">
                      <img src="assets/images/portfolio/6.jpg" alt="images">
                   </div>
                   <div class="project-content">
@@ -484,11 +484,11 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
-               <div class="project-item">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/logo-design.jpg" alt="images">
                   </div>
-                  <div class="project-content mt-30">
+                  <div class="project-content">
                      <div class="project-inner">
                         <h3 class="title text-white">Logo UI</h3>
                         <span class="category text-white">Logo Design </span>
@@ -499,11 +499,11 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2 ">
             <a href="   ">
-               <div class="project-item">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
                   </div>
-                  <div class="project-content mt-30">
+                  <div class="project-content">
                      <div class="project-inner">
                         <h3 class="title text-white">images AMERICAN FIDDLE METHOD</h3>
                         <span class="category text-white">Development</span>
@@ -514,11 +514,11 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2 ">
             <a href="   ">
-               <div class="project-item">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/dental.jpg" alt="images">
                   </div>
-                  <div class="project-content mt-30">
+                  <div class="project-content">
                      <div class="project-inner">
                         <h3 class="title text-white">Dentalexcellence</h3>
                         <span class="category text-white">Wordpress, Divi Theme </span>
@@ -529,7 +529,7 @@
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
-               <div class="project-item mt-30">
+               <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/usercard.jpg" alt="images">
                   </div>
