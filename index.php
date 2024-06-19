@@ -545,75 +545,7 @@
       </div>
    </div>
 </div>
-<!-- Project Section End -->
-<!-- Project Section Start -->
-<!-- <div id="rs-project" class="rs-project style6 modify1 pt-100 pb-100 md-pt-80 md-pb-80 gray-color">
-      <div class="container">
-         <div class="sec-title2 mb-50 text-center">
-            <h2 class="title">Projects that We have Done</h2>
-            <div class="heading-line"></div>
-            <p class="desc">
-               We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
-            </p>
-         </div>
-         <div class="row">
-            <div class="col-md-6 mb-40">
-                  <div class="project-item">
-                     <div class="project-img">
-                        <img src="assets/images/project/style4/watchflix.jpg" alt="images">
-                        <a href="watchflixad.php"><div class="plus-icon"><i class="fa fa-plus"></i></div></a>
-                     </div>
-                     <div class="project-content"> 
-                        <h3 class="title"><a href="watchflixad.php">Watchflixad</a></h3>
-                        <span class="category"><a href="watchflixad.php">Development</a></span>
-                     </div>
-                  </div>
-            </div>
-            <div class="col-md-6 md-mb-40">
-                  <div class="project-item">
-                     <div class="project-img">
-                        <img src="assets/images/project/style4/buybulk.jpg" alt="images">
-                        <a href="buybulk-project.php"><div class="plus-icon"><i class="fa fa-plus"></i></div></a>
-                     </div>
-                     <div class="project-content"> 
-                        <h3 class="title"><a href="buybulkshrooms.php">Buybulkshrooms</a></h3>
-                        <span class="category"><a href="buybulk-project.php">Web Design</a></span>
-                     </div>
-                  </div>
-            </div>
-            <div class="col-md-6">
-                  <div class="project-item">
-                     <div class="project-img">
-                        <img src="assets/images/project/style4/logo-design.jpg" alt="images">
-                        <a href="logodesign.php"><div class="plus-icon"><i class="fa fa-plus"></i></div></a>                                    
-                     </div>
-                     <div class="project-content"> 
-                        <h3 class="title"><a href="logodesign.php">Logo UI</a></h3>
-                        <span class="category"><a href="logodesign.php">Logo Design</a></span>
-                     </div>
-                  </div>
-            </div>
-            <div class="col-md-6 mb-40">
-                  <div class="project-item">
-                     <div class="project-img">
-                        <img src="assets/images/project/style4/garvityform.jpg" alt="images">
-                        <a href="gform.php"><div class="plus-icon"><i class="fa fa-plus"></i></div></a>
-                     </div>
-                     <div class="project-content"> 
-                        <h3 class="title"><a href="gform.php">Gravity form UI/UX</a></h3>
-                        <span class="category"><a href="gform.php">Gravity Form</a></span>
-                     </div>
-                  </div>
-            </div>
-         </div>
-         <div class="btn-part mt-60 md-mt-30 text-center">
-            <a class="readon discover more" href="portfolio.php">More Projects</a>
-         </div>
-      </div>
-</div>  -->
-<!-- Project Section End -->
-<!-----Tab Section End----->
-<!-- Call Action Section Start -->
+
 <div class="rs-call-us bg1 pt-120 md-pt-80">
    <div class="container">
       <div class="row rs-vertical-middle">
@@ -742,14 +674,6 @@
          </div>
       </div>
    </div>
-   <!-- <div class="shape-part">
-      <div class="left-side">
-         <img src="assets/images/services/shape-2.png" alt="">
-      </div>
-      <div class="right-side">
-         <img src="assets/images/services/shape-3.png" alt="">
-      </div>
-   </div> -->
 </div>
 <!-- Process Section End -->
 <!-- Case Study Section Start -->
@@ -891,7 +815,6 @@
       </div>
    </div>
 </section>
-
 <!-- Technology Section Start -->
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
