@@ -815,7 +815,6 @@
       </div>
    </div>
 </section>
-
 <!-- Technology Section Start -->
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
