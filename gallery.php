@@ -361,7 +361,4 @@ jQuery('#gallery.carousel .carousel-item').each(function(){
       }
 });
 
-//Initialize carousel
-  // jQuery( ".carousel-item:first-of-type" ).addClass( "active" );
-  // jQuery( ".carousel-indicators:first-child" ).addClass( "active" );
 </script>
