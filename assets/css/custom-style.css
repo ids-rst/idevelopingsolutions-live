@@ -704,12 +704,12 @@ max-width: 20%;
 	max-width: 20%;
 }
 }
-@media (min-width: 992px){
+/* @media (min-width: 992px){
 .col-lg-5 {
 	flex: 0 0 20%;
 	max-width: 20%;
 }
-}
+} */
 @media (min-width: 1200px){
 .col-xl-5 {
 	flex: 0 0 20%;
