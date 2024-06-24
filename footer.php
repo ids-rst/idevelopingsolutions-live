@@ -77,7 +77,6 @@
                   <li><a href="index.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="gallery.php">Gallery</a></li>
-                  <!-- <li><a href="faq.php">FAQs</a></li> -->
                   <li><a href="our-team.php">Our Team</a></li>
 									<li><a href="career.php">Career <sup style="color:red;font-size: 14px;">new</sup></a></li>
                   <li><a href="term-condition.php">Terms & Conditions</a></li>
@@ -115,7 +114,6 @@
       </div>
    </div>
 </div>
-
  
 <!-- Search Modal End -->
 <!-- jquery latest version -->
@@ -143,8 +141,6 @@
 <script src="assets/js/jquery.counterup.min.js"></script>
 <!-- counter top js -->
 <script src="assets/js/waypoints.min.js"></script>
-<!-- swiper js -->
-<!-- <script src="assets/js/swiper.min.js"></script> -->
 <!-- particles js -->
 <script src="assets/js/particles.min.js"></script>
 <!-- magnific popup js -->

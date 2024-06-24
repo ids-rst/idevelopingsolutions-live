@@ -77,7 +77,6 @@
                            <ul>
                               <li class="opening"> <em><i class="flaticon-clock"></i> 09:00am-6:00pm</em> </li>
                               <li><a href="https://www.facebook.com/IDevelopingSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                              <!-- <li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li> -->
                               <li><a href="https://www.instagram.com/ideveloping2020/?igshid=ZDdkNTZiNTM%3D" target="_blank"><i class="fa fa-instagram"></i></a></li>
                            </ul>
                         </div>
