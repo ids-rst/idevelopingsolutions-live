@@ -197,9 +197,7 @@
     max-width: 20%;
   }
 }
-
 </style>
-
 <div class="rs-breadcrumbs cs-gallery img4 our-team">
    <div class="breadcrumbs-inner cs-space text-center">
       <h1 class="page-title">Our Gallery</h1>
@@ -269,7 +267,6 @@
     </div>
   </div>
 </div>
-
   <div class="modal fade h-100" id="lightbox" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
@@ -320,8 +317,7 @@
                 </div>
               </div>
             </div>
-          </div>
-          
+          </div>         
             <a class="carousel-control-prev" href="#lightbox-gallery" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
@@ -342,7 +338,6 @@
   jQuery('#gallery').carousel({
   interval: 5000
 })
-
 // Modify each slide to contain five columns of images
 jQuery('#gallery.carousel .carousel-item').each(function(){
     var minPerSlide = 10;
