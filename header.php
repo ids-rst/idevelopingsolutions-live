@@ -35,10 +35,9 @@
       <!-- spacing css -->
       <link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css">
       <!-- style css -->
-      <!-- <link rel="stylesheet" type="text/css" href="assets/css/style2.css"> -->
       <link rel="stylesheet" type="text/css" href="assets/css/custom-style.css">
       <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-      <!-- This stylesheet dynamically changed from style.less -->
+     
       <!-- responsive css -->
       <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
       <!--[if lt IE 9]>
@@ -145,9 +144,7 @@
          </header>
          <!--Header End-->
       </div>
-      <!--Full width header End-->
-        <?php 
-           
-        ?>
+   
+       
       
  
