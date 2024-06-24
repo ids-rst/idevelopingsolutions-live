@@ -1,5 +1,4 @@
 </div>
-<!-- Main content End -->
 <!-- Footer Start -->
 <footer id="rs-footer" class="rs-footer">
    <div class="footer-top">

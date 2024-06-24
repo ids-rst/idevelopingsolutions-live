@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
