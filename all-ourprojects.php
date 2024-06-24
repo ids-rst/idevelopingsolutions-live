@@ -12,7 +12,6 @@
     </div>
 </div>
 <!-- Breadcrumbs End -->
-
 <!-- Project Section Start -->
 <div class="rs-project style5 pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
@@ -112,7 +111,6 @@
     </div>
 </div>
 <!-- Project Section End -->
-
 </div> 
 <!-- Main content End -->
 <?php include 'footer.php';?>

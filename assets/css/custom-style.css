@@ -137,10 +137,7 @@ body .rs-faq .faq-content .accordion .card .card-header .card-link{
 body .rs-breadcrumbs.img4.our-team{
   background: url(../../assets/images/breadcrumbs/team-ids.jpg);
 }
-/* .team-item-wrap .image-inner a,
-.team-item-wrap .person-name a{
-  pointer-events: none;
-} */
+
 .sec-title2 .title.cs-mission-visible {
   font-size: 24px;
   max-width: 100%;

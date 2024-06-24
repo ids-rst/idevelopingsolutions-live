@@ -16,8 +16,7 @@
                   <img src="assets/images/portfolio/fristaid.jpg" alt="">
                 </div>
               </div>
-              <h2 class="mt-34">Practical & Engaging first aid training courses in Bristol & Bath</h2>
-              
+              <h2 class="mt-34">Practical & Engaging first aid training courses in Bristol & Bath</h2>             
               <p>It provides <b>practical and engaging</b> first aid courses in <b>Bristol</b> and the <b>South West</b>. All of our courses follow the guidelines set by the HSE and our Ofqual regulated courses are accredited through Nuco and the FAA. As well as being trained in first aid to a very high level all of our instructors are also qualified teachers. At First Aid Bristol our goal is to raise the bar on first aid training in the UK.</p>
               <h5 class="mt-34">Worked On:-</h5>
               <ul class="listing-style">                              
