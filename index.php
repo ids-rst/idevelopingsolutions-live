@@ -542,6 +542,81 @@
                </div>
             </a>
          </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/king-court.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker (5).png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker (6).png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker (7).png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker (8).png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
       </div>
    </div>
 </div>
