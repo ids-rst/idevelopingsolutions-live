@@ -20,152 +20,269 @@
 				We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/watchflix.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="watchflixad.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="watchflixad.php">Watchflixad</a></h3>
-							<span class="category"><a href="watchflixad.php">Development</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 sm-mb-25">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/buybulk.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="buybulkshrooms.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="buybulkshrooms.php">Buybulkshrooms</a></h3>
-							<span class="category"><a href="buybulkshrooms.php">Wordpress, Elementor</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 sm-mb-25">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/garvityform.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="gform.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="gform.php">Gravity Form UI/UX </a></h3>
-							<span class="category"><a href="gform.php">Gravity Form</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/logo-design.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="logodesign.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="logodesign.php">Logo UI</a></h3>
-							<span class="category"><a href="logodesign.php">Logo Design</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="firstaid.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="firstaid.php">Frist aid</a></h3>
-							<span class="category"><a href="firstaid.php">Angular JS , Bootstrap</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="americanfiddle.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="americanfiddle.php">American Fiddle Method</a></h3>
-							<span class="category"><a href="americanfiddle.php">Development</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/dental.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="dentalexcellence.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="dentalexcellence.php">Dentalexcellence</a></h3>
-							<span class="category"><a href="dentalexcellence.php">Wordpress, Divi Theme </a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/redfox.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="ids-redfox.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="ids-redfox.php">Redfoxmachinery</a></h3>
-							<span class="category"><a href="ids-redfox.php">Wordpress, Divi Theme </a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
-				<div class="project-item">
-					<div class="project-img">
-						<img src="assets/images/portfolio/usercard.jpg" alt="images">
-					</div>
-					<div class="project-content">
-						<a href="usercard.php">
-							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
-						</a>
-						<div class="project-inner">
-							<h3 class="title"><a href="usercard.php">User Card</a></h3>
-							<span class="category"><a href="usercard.php">Development</a></span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<div class="gridFilter text-center mb-50">
+         <button class="active" data-filter="*">All</button>
+         <button data-filter=".filter1">Wordpress</button>
+         <button data-filter=".filter2">Web Design</button>
+         <button data-filter=".filter3">Development</button>
+      </div>
+      <div class="row grid">
+         <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="buybulk-project.php">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/buybulk.jpg" alt="buybulkshrooms">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Wordpress</h3>
+                        <span class="category text-white">Buybulkshrooms</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter2">
+            <a href="abwill.php">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/garvityform.jpg" alt="abwills">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Abwills Design</h3>
+                        <span class="category text-white">Gravity Form</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="ids-redfox.php">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/redfox.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Ecommerce</h3>
+                        <span class="category text-white">Redfoxmachinery</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter3">
+            <a href="ids-firstaid.php">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Web Development</h3>
+                        <span class="category text-white">Firstaidbristol</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="watchflixad.php">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/watchflix.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Development</h3>
+                        <span class="category text-white">Watchflixad</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img ">
+                     <img src="assets/images/portfolio/6.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Bargainz App Design</h3>
+                        <span class="category text-white">App Design</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/logo-design.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Logo UI</h3>
+                        <span class="category text-white">Logo Design </span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">images AMERICAN FIDDLE METHOD</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/dental.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Dentalexcellence</h3>
+                        <span class="category text-white">Wordpress, Divi Theme </span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/usercard.jpg" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter1 filter3">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Bristol.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Bristol</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Ca-tech.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Ca-Tech</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/ellsium.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">ellsium</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/king-court.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">king-court</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Nutcracker</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter3">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Point-man.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Point-man</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+		 <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/topai.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Topai</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+      </div>
 	</div>
 </div>
 <!-- Project Section End -->
