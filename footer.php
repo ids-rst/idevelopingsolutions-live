@@ -22,6 +22,9 @@
                   <li>
                      <a href="https://www.instagram.com/ideveloping2020/?igshid=ZDdkNTZiNTM%3D" target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                   </li>
+                  <li>
+                     <a href="https://www.linkedin.com/company/idevelopingsolutions/" target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
+                  </li>
                </ul>
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
