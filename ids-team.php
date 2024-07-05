@@ -172,9 +172,6 @@
             <!-- About Section End -->
 
 
-
-
-
             <!-- About Section Start -->
 
             <div id="rs-about" class="rs-about gray-color pt-120 pb-120 md-pt-80 md-pb-60">
