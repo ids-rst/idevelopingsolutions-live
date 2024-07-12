@@ -35,10 +35,9 @@
       <!-- spacing css -->
       <link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css">
       <!-- style css -->
-      <!-- <link rel="stylesheet" type="text/css" href="assets/css/style2.css"> -->
       <link rel="stylesheet" type="text/css" href="assets/css/custom-style.css">
       <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-      <!-- This stylesheet dynamically changed from style.less -->
+     
       <!-- responsive css -->
       <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
       <!--[if lt IE 9]>
@@ -70,11 +69,6 @@
                               <i class="flaticon-call"></i>
                               <a href="tel:+91-186-3590033"> +91-186-3590033</a>
                            </li>
-                           <!-- <li>
-                           <a href="https://www.google.com/maps/dir//Incredible+Developing+Solutions,+Dalhousie+Road,+near+Axis+Bank,+Pathankot,+Punjab+145001/@32.2024032,75.   4262128,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x391c80e488d9abc1:0xbac1c81dab431a0f!2m2!1d75.6558872!2d32.2700392" target="_blank">
-                              <i class="flaticon-location"></i> Dalhousie Road, Pathankot(145001)
-                           </a>
-                           </li> -->
                         </ul>
                      </div>
                      <div class="col-lg-4 text-right">
@@ -82,7 +76,6 @@
                            <ul>
                               <li class="opening"> <em><i class="flaticon-clock"></i> 09:00am-6:00pm</em> </li>
                               <li><a href="https://www.facebook.com/IDevelopingSolutions/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                              <!-- <li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li> -->
                               <li><a href="https://www.instagram.com/ideveloping2020/?igshid=ZDdkNTZiNTM%3D" target="_blank"><i class="fa fa-instagram"></i></a></li>
                            </ul>
                         </div>
@@ -97,7 +90,7 @@
                   <div class="row align-items-center">
                      <div class="col-lg-2">
                         <div class="logo-part">
-                           <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
+                           <a href="index.php"><img src="assets/images/home/logo-dark.png" alt=""></a>
                         </div>
                         <div class="mobile-menu">
                            <a href="#" class="rs-menu-toggle rs-menu-toggle-close secondary">
@@ -139,11 +132,6 @@
                            <!-- //.main-menu -->
                            <div class="expand-btn-inner search-icon hidden-md">
                               <ul>
-                                 <!-- <li class="sidebarmenu-search">
-                                    <a class="hidden-xs rs-search" data-target=".search-modal" data-toggle="modal" href="#">
-                                    <i class="flaticon-search"></i>
-                                    </a>
-                                 </li> -->
                                  <li><a class="quote-btn" href="contact.php" onclick="showModel();">Get A Quote</a></li>
                               </ul>
                            </div>
@@ -156,16 +144,7 @@
          </header>
          <!--Header End-->
       </div>
-      <!--Full width header End-->
-        <?php 
-            // $to = "contact@idevelopingsolutions.com";
-            // $subject = "";
-            // $txt = $_POST['name']."<br>". $_POST['phone']."<br>".$_POST['email']."<br>".$_POST['message'] ;
-            // $headers = "From: ".$_POST['email']."" . "\r\n";
-        
-            // if( isset($_POST['insert']) ){
-            // mail($to,$subject,$txt,$headers);
-            // }
-        ?>
+   
+       
       
  

@@ -1,5 +1,4 @@
 </div>
-<!-- Main content End -->
 <!-- Footer Start -->
 <footer id="rs-footer" class="rs-footer">
    <div class="footer-top">
@@ -77,9 +76,8 @@
                   <li><a href="index.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                   <li><a href="gallery.php">Gallery</a></li>
-                  <!-- <li><a href="faq.php">FAQs</a></li> -->
                   <li><a href="our-team.php">Our Team</a></li>
-									<li><a href="career.php">Career <sup style="color:red;font-size: 14px;">new</sup></a></li>
+						<li><a href="career.php">Career <sup style="color:red;font-size: 14px;">new</sup></a></li>
                   <li><a href="term-condition.php">Terms & Conditions</a></li>
                </ul>
             </div>
@@ -115,8 +113,6 @@
       </div>
    </div>
 </div>
-
- 
 <!-- Search Modal End -->
 <!-- jquery latest version -->
 <script src="assets/js/jquery.min.js"></script>
@@ -143,8 +139,6 @@
 <script src="assets/js/jquery.counterup.min.js"></script>
 <!-- counter top js -->
 <script src="assets/js/waypoints.min.js"></script>
-<!-- swiper js -->
-<!-- <script src="assets/js/swiper.min.js"></script> -->
 <!-- particles js -->
 <script src="assets/js/particles.min.js"></script>
 <!-- magnific popup js -->
@@ -158,7 +152,6 @@
 <script src="assets/js/contact-form.js"></script>
 <!-- main js -->
 <script src="assets/js/main.js"></script>
-
 <?php 
   $request_URL = explode('/', $_SERVER['REQUEST_URI']);
   $url = end($request_URL);
@@ -169,8 +162,6 @@
         var curent_link = jQuery(".active_link").val();
         jQuery('a[href="'+curent_link+'"]').addClass('active');
     });
-
 </script>
-
 </body>
 </html>
