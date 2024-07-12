@@ -12047,14 +12047,3 @@ body .rs-project.style8 .project-item:hover .project-content .project-inner .cat
 }
 
 
-/* mmmmm */
-
-.owl-nav .owl-prev i.fa.fa-angle-left {
-    padding-top: 18px;
-    padding-right: 9px;
-}
-
-.owl-next i.fa.fa-angle-right {
-    padding-left: 6px;
-    padding-top: 18px;
-}

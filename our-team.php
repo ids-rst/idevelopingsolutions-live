@@ -1,10 +1,6 @@
 <?php include 'header.php';?>
 <!-- Breadcrumbs Start -->
-<style>
-   body .rs-breadcrumbs.img4.our-team {
-    background: url(assets/images/breadcrumbs/ideveloping-team.jpg);
-   }
-</style>
+
 <div class="rs-breadcrumbs img4 our-team">
    <div class="breadcrumbs-inner cs-space text-center">
       <h1 class="page-title">Our Team</h1>
