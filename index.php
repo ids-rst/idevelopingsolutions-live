@@ -542,10 +542,39 @@
                </div>
             </a>
          </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Nutcracker.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/topai.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">User Card</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
       </div>
    </div>
 </div>
-
 <div class="rs-call-us bg1 pt-120 md-pt-80">
    <div class="container">
       <div class="row rs-vertical-middle">
@@ -771,7 +800,6 @@
    </div>
 </div>
 <!-- Case Study Section Start -->
-
 <section class="testimonial text-center sec-title2 pt-100 pb-100 md-pt-80 md-pb-80 rs-services">
    <div class="container">
       <div class="shape-animation postion-inherit">
@@ -784,7 +812,6 @@
       </div>
       <div class="heading-line"></div>
       <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
-
          <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                <div class="testimonial4_slide">
