@@ -137,7 +137,12 @@ body .rs-faq .faq-content .accordion .card .card-header .card-link{
 body .rs-breadcrumbs.img4.our-team{
   background: url(../../assets/images/breadcrumbs/team-ids.jpg);
 }
-
+.rs-call-us .image-part img{
+	transform: scaleX(-1);
+}
+.rs-animation-image .dance3{
+	width: 100%;
+}
 .sec-title2 .title.cs-mission-visible {
   font-size: 24px;
   max-width: 100%;
@@ -483,6 +488,7 @@ ul.listing-style span {
 .carousel-control-prev .fa.fa-angle-left:hover, .carousel-control-next .fa.fa-angle-right:hover {
     background: #03457fdb;
 }
+
 
 
 @media screen and (max-width:1300px){

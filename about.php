@@ -86,7 +86,7 @@
          <div class="col-lg-5 md-pt-40">
             <div class="rs-animation-image">
                <div>
-                  <img width="400px" class="dance3" src="assets/images/about/ids-about.webp" alt="">
+                  <img width="400px" class="dance3" src="assets/images/about/support.jpg" alt="">
                </div>
             </div>
          </div>

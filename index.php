@@ -580,7 +580,7 @@
       <div class="row rs-vertical-middle">
          <div class="col-lg-6">
             <div class="image-part">
-               <img src="assets/images/home/contact-here.png" alt="">
+               <img src="assets/images/home/best-img-0001.png" alt="">
             </div>
          </div>
          <div class="col-lg-6">
