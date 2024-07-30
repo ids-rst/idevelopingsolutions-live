@@ -612,7 +612,7 @@
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
-                     <span class="rs-count k">80</span>
+                     <span class="rs-count k">50</span>
                   </div>
                   <h3 class="title">Happy Clients</h3>
                </div>
