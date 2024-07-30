@@ -40,6 +40,7 @@
      
       <!-- responsive css -->
       <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+      <link rel="stylesheet" type="text/css" href="assets/css/star.css">
       <!--[if lt IE 9]>
       <![endif]-->
    </head>

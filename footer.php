@@ -152,6 +152,8 @@
 <script src="assets/js/contact-form.js"></script>
 <!-- main js -->
 <script src="assets/js/main.js"></script>
+<script src="assets/js/particles.min.js"></script>
+<script src="assets/js/app.js"></script>
 <?php 
   $request_URL = explode('/', $_SERVER['REQUEST_URI']);
   $url = end($request_URL);
