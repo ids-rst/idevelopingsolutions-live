@@ -645,7 +645,7 @@
 </div>
 <!-- Counter Section Start End-->
 <!-- Process Section Start -->
-<div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
+<!-- <div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
    <div class="container pt-relative">
       <div class="sec-title2 text-center mb-45">
          <span class="sub-text">Process</span>
@@ -705,7 +705,55 @@
          </div>
       </div>
    </div>
-</div>
+</div> -->
+
+<section class="process-section pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
+   <div class="container">
+	    <div class="sec-title2 text-center mb-45">
+         <span class="sub-text">Process</span>
+         <h2 class="title title2">
+            Steps we Follow for Complement
+         </h2>
+         <div class="heading-line"></div>
+      </div>
+      <div class="process-steps">
+
+         <div class="step">
+            <div class="border-circle">
+               <div class="step-icon">
+                  <span>01</span>
+               </div>
+               <div class="step-text">
+                  <h4>Research Project</h4>
+                  <p>We move ahead and start building an algorithm for your Software.</p>
+               </div>
+            </div>
+         </div>
+         <div class="step step-margin">
+            <div class="border-circle">
+               <div class="step-icon">
+                  <span>02</span>
+               </div>
+               <div class="step-text">
+                  <h4>Evaluate Plans</h4>
+                  <p>Our well-experienced web design and development team.</p>
+               </div>
+            </div>
+         </div>
+         <div class="step">
+            <div class="border-circle">
+               <div class="step-icon">
+                  <span>03</span>
+               </div>
+               <div class="step-text">
+                  <h4>Best Results</h4>
+                  <p>We will do our best to make our customers happy and satisfied.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!-- Process Section End -->
 <!-- Case Study Section Start -->
 <div class="rs-case-study primary-background">
