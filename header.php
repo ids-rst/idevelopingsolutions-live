@@ -4,10 +4,11 @@
       <!-- meta tag -->
       <meta charset="utf-8">
       <title>IDeveloping Solutions</title>
-      <meta name="description" content="">
+      <meta name="description" content="IDeveloping Solutions offers expert web development and SEO services. We create responsive, fast, and user-friendly websites tailored to your business needs.">
       <!-- responsive tag -->
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="keywords" content="IT Company in Pathankot, Best Web development company in Pathankot, Top Web Development Company in Pathankot, Custom Website Design Pathankot, Website Development Services Pathankot,Hire Web Developers in Pathankot, idevelopingsolutions">
       <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
       <meta http-equiv="Pragma" content="no-cache" />
       <meta http-equiv="Expires" content="0" />
@@ -68,7 +69,7 @@
                            </li>
                            <li>
                               <i class="flaticon-call"></i>
-                              <a href="tel:+91-186-3590033"> +91-186-3590033</a>
+                              <a href="tel:+91-7009239004"> +91-7009239004</a>
                            </li>
                         </ul>
                      </div>
@@ -145,7 +146,3 @@
          </header>
          <!--Header End-->
       </div>
-   
-       
-      
- 

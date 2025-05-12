@@ -21,9 +21,6 @@
                   <li>
                      <a href="https://www.instagram.com/ideveloping2020/?igshid=ZDdkNTZiNTM%3D" target="_blank"><span><i class="fa fa-instagram"></i></span></a>
                   </li>
-                  <li>
-                     <a href="https://www.linkedin.com/company/idevelopingsolutions/" target="_blank"><span><i class="fa fa-linkedin"></i></span></a>
-                  </li>
                </ul>
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
@@ -47,7 +44,7 @@
                   <li>
                      <i class="flaticon-call"></i>
                      <div class="desc">
-                        <a href="tel:+91-186-3590033"> +91-186-3590033</a>
+                        <a href="tel:+91-7009239004"> +91-7009239004</a>
                      </div>
                   </li>
                   <li>
@@ -86,7 +83,7 @@
             </div>
             <div class="col-lg-5">
                <div class="copyright">
-                  <p>Copyright © 2018-2021. <a title="I Developing Sloutions Company"><strong>iDeveloping Solutions Company Pvt. Ltd </strong></a></p>
+                  <p>Copyright © 2018-2025. <a title="I Developing Sloutions Company"><strong>iDeveloping Solutions Company Pvt. Ltd </strong></a></p>
                </div>
             </div>
          </div>
