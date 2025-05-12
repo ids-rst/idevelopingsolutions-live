@@ -409,17 +409,14 @@ ul.listing-style span {
 	position: relative;
 	border-radius: 50%;
 	box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
-	-moz-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
-	-o-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
-	-webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
 }
 
 .testimonial4_slide p {
 	color: #454545;
-	font-size: 18px;
+	font-size: 16px;
 	font-weight: 400;
 	line-height: 1.4;
-	margin: 40px 0 20px 0;
+	margin: 10px 0 10px 0;
 }
 
 .testimonial .carousel-control-next-icon,
@@ -518,6 +515,8 @@ ul.listing-style span {
 	padding-left: 6px;
 	padding-top: 18px;
 }
+
+
 
 /* our-team-css */
 
@@ -677,6 +676,11 @@ padding: 2rem 0;
 border: none !important;
 }
 
+.carousel-inner .testimonial4_slide > .testimonial {
+	margin-top: 26px;
+	margin-bottom: 0;
+}
+
 
 /* bootstrap mod addons */
 .w-90 {
@@ -711,12 +715,7 @@ max-width: 20%;
 	max-width: 20%;
 }
 }
-/* @media (min-width: 992px){
-.col-lg-5 {
-	flex: 0 0 20%;
-	max-width: 20%;
-}
-} */
+
 @media (min-width: 1200px){
 .col-xl-5 {
 	flex: 0 0 20%;
