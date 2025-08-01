@@ -395,7 +395,7 @@
       </div>
       <div class="row grid">
          <div class="col-lg-4 col-md-6 grid-item filter1">
-            <a href="buybulk-project.php">
+            <a href="buybulkshrooms.php">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/buybulk.jpg" alt="buybulkshrooms">
@@ -410,7 +410,7 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter3 filter1">
-            <a href="abwill.php">
+            <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/garvityform.jpg" alt="abwills">
@@ -425,7 +425,7 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter3 filter2">
-            <a href="ids-redfox.php">
+            <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/redfox.jpg" alt="images">
@@ -440,7 +440,7 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
-            <a href="ids-firstaid.php">
+            <a href="firstaid.php">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
@@ -455,7 +455,7 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter2 filter3">
-            <a href="watchflixad.php">
+            <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/watchflix.jpg" alt="images">
@@ -507,7 +507,7 @@
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
-                        <h3 class="title text-white">images AMERICAN FIDDLE METHOD</h3>
+                        <h3 class="title text-white">AMERICAN FIDDLE METHOD</h3>
                         <span class="category text-white">Development</span>
                      </div>
                   </div>
@@ -515,7 +515,7 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2 ">
-            <a href="   ">
+            <a href="dentalexcellence.php">
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/dental.jpg" alt="images">
@@ -552,7 +552,7 @@
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
-                        <h3 class="title text-white">User Card</h3>
+                        <h3 class="title text-white">Nutcracker Sweet</h3>
                         <span class="category text-white">Development</span>
                      </div>
                   </div>
@@ -567,7 +567,7 @@
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
-                        <h3 class="title text-white">User Card</h3>
+                        <h3 class="title text-white">Top Ai Directory</h3>
                         <span class="category text-white">Development</span>
                      </div>
                   </div>
@@ -818,20 +818,73 @@
             <div class="carousel-item active">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/image3.jpg" class="img-circle img-responsive" />
-                  <p> "I thoroughly enjoy collaborating with Team India Dialing. Their commitment to excellence consistently surpasses expectations. They exhibit remarkable speed, reliability, and expertise in their work. Without hesitation, I look forward to future collaborations with them and wholeheartedly endorse their services."</p>
+                  <h5 class="testimonial">Roxanne Hicks</h5>
+                  <p> Excellent job as always, I use Vivek frequently and he is a great problem solver and has vast technical knowledge. Will use Vivek whenever I need assistance, Highly recommend.</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/download.jpeg" class="img-circle img-responsive" />
-                  <p>Your team's proficiency in embracing cutting-edge technology is truly commendable. Entrusting my project to your capable hands has been a gratifying experience. I take immense pride in the outcome we've achieved together. Your unwavering commitment to excellence, coupled with your refusal to accept limitations, has been invaluable to me. I deeply appreciate your dedication and can-do attitude.
-                  </p>
+                  <h5 class="testimonial" >Henrik Kuepping</h5>
+                  <p>This wasn't our first project with Vivek and not our last.During the project he over delivered and made things even better than we suggested.</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/images (4).jpeg" class="img-circle img-responsive" />
-                  <p>The India Dialing Team has been exceptional. Over the past year, they've assisted me in crafting a few websites that we're now genuinely delighted with. Whenever adjustments are needed, I can effortlessly log in and make them myself in just a few minutes. The user-friendly interface allows me to update and modify content on our websites as our businesses evolve. </p>
+                  <h5 class="testimonial">Monique Padillag</h5>
+                  <p>I had the pleasure of working with Vivek on a recent project, and I couldn't be more impressed with their work. From the very beginning, they demonstrated a high level of professionalism and expertise that exceeded my expectations.</p>                 
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-1.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Matthew Kroll</h5>
+                  <p>Vivek was an excellent communicator and delivered expert level gravity forms for me. He also collaborated with my other team members to help with various API integrations and designing web pages. He is the full package and I will certainly hire him again. Thank you for your hard work Vivek.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-2.png" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Dina Colada</h5>
+                  <p>Working with Vivek from iDeveloping Solutions was an absolute delight! 🌟</p>
+                  <p>We needed someone to update Open AI strings and fields in our systems, and Vivek exceeded our expectations. He brought a touch of magic to the project, turning the ordinary into the extraordinary. 🪄</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-3.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Bill Deputy</h5>
+                  <p>I had some programming done by Vivek and could not be happier. He customized my site and made it 200% more user-friendly. He automated the sign-up process for customers who purchased my courses and created a custom plugin to protect his work from being destroyed by updates. He performed above and beyond my expectations, all at a very reasonable price. Can't wait to work with him again on my next project.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-4.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Jay Meadows</h5>
+                  <p>After vetting many freelancers for a relatively complex and multifaceted task involving Gravity Forms and another lesser-known plugin, Vivek provided the clearest response and demonstrated a deep understanding of the tasks. (This included a file upload in Gravity Forms that tied into published products in WooCommerce and a gamified buying system... so, again, it was a tricky project.)</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-5.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Richard Highet</h5>
+                  <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>                
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-6.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Frank Foerderer</h5>
+                  <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>                
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/test-7.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Hila Friedmann</h5>
+                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>
+                  <p>He has done for us such an amazing REACT application in a few days, was fast and responsive, and so committed!</p>                
                </div>
             </div>
          </div>
