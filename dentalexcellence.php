@@ -49,7 +49,7 @@
                 </div>
                 <h2 class="title">Have any Questions? <br> Call us Today! </h2>
                 <div class="contact">
-                  <a href="tel:+91-186-3590033"> +91-186-3590033</a>
+                  <a href="tel:+91-7009239004"> +91-7009239004</a>
                 </div>
               </div>
             </div>

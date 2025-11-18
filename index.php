@@ -594,7 +594,7 @@
                </div>
                <div class="sec-title3">
                   <span class="sub-text">CALL US 24/7</span>
-                  <h2 class="title">+91-186-3590033</h2>
+                  <h2 class="title">+91-7009239004</h2>
                   <p class="desc">We have a team of professionals who are always ready to take your project on board. We provide the best service and support for your project. Join us today!</p>
                </div>
                <div class="btn-part mt-40 md-mb-60">
@@ -624,7 +624,7 @@
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
-                     <span class="rs-count plus">50</span>
+                     <span class="rs-count plus">250</span>
                   </div>
                   <h3 class="title">Companies</h3>
                </div>
@@ -634,7 +634,7 @@
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
-                     <span class="rs-count plus">230</span>
+                     <span class="rs-count plus">1200</span>
                   </div>
                   <h3 class="title">Projects Done</h3>
                </div>

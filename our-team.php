@@ -33,7 +33,7 @@
                   data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true"
                   data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3"
                   data-md-device-nav="false" data-md-device-dots="true">
-                  <div class="team-item-wrap">
+                  <!-- <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
                            <a> <img src="assets/images/our-team/sanjeev.jpg" alt="Sanjeev"></a>
@@ -43,8 +43,8 @@
                         <h4 class="person-name"><a>Sanjeev</a></h4>
                         <span class="designation"><a>Director</a></span>
                      </div>
-                  </div>
-                  <div class="team-item-wrap">
+                  </div> -->
+                  <!-- <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
                            <a><img src="assets/images/our-team/vivek.jpg" alt="vivek"></a>
@@ -54,7 +54,7 @@
                         <h4 class="person-name"><a>Vivek</a></h4>
                         <span class="designation"><a>Director</a></span>
                      </div>
-                  </div>
+                  </div> -->
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">

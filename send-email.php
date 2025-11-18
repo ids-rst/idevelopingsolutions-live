@@ -7,7 +7,7 @@ class _send_email_with_ajax{
     if(empty($data)){
       return ;
     }
-      $to = "contact@idevelopingsolutions.com";
+      $to = "chetan@idevelopingsolutions.com";
       $subject = "Contact Details of the User";
       $message = '<style type="text/css">
                   /* CLIENT-SPECIFIC STYLES */body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }img { -ms-interpolation-mode: bicubic; }
