@@ -1,12 +1,9 @@
 <?php include 'header.php'; ?>
 <?php
-if (isset($_POST['send_mail'])) {
-
+if (!empty($_POST)) {
 	echo "<pre>";
-  echo"here we";
-	print_r($_POST);
+	print_r($_GET);
 	echo "</pre>";
-  die;
 }
 ?>
 <!-- Breadcrumbs Start -->
@@ -107,12 +104,9 @@ if (isset($_POST['send_mail'])) {
                   <input class="readon learn-more submit send_contact_mail" type="submit" name="send_mail"
                     value="Submit Now">
                 </div>
-                
               </div>
-               
             </fieldset>
           </form>
-          
         </div>
         <div class="jumbotron email-sent-message text-center" style="display:none;">
           <h2 class="display-4 mb-0">Thank You!</h2>
@@ -123,7 +117,6 @@ if (isset($_POST['send_mail'])) {
         </div>
       </div>
     </div>
-    
   </div>
   <div class="map-canvas pt-120 md-pt-80">
     <iframe id="gmap_canvas"

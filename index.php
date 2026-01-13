@@ -838,14 +838,14 @@
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-1.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/download.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial">Matthew Kroll</h5>
                   <p>Vivek was an excellent communicator and delivered expert level gravity forms for me. He also collaborated with my other team members to help with various API integrations and designing web pages. He is the full package and I will certainly hire him again. Thank you for your hard work Vivek.</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-2.png" class="img-circle img-responsive" />
+                  <img src="assets/images/home/istockphoto.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial">Dina Colada</h5>
                   <p>Working with Vivek from iDeveloping Solutions was an absolute delight! 🌟</p>
                   <p>We needed someone to update Open AI strings and fields in our systems, and Vivek exceeded our expectations. He brought a touch of magic to the project, turning the ordinary into the extraordinary. 🪄</p>
@@ -853,38 +853,37 @@
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-3.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/download (1).jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Bill Deputy</h5>
                   <p>I had some programming done by Vivek and could not be happier. He customized my site and made it 200% more user-friendly. He automated the sign-up process for customers who purchased my courses and created a custom plugin to protect his work from being destroyed by updates. He performed above and beyond my expectations, all at a very reasonable price. Can't wait to work with him again on my next project.</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-4.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/download (2).jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Jay Meadows</h5>
                   <p>After vetting many freelancers for a relatively complex and multifaceted task involving Gravity Forms and another lesser-known plugin, Vivek provided the clearest response and demonstrated a deep understanding of the tasks. (This included a file upload in Gravity Forms that tied into published products in WooCommerce and a gamified buying system... so, again, it was a tricky project.)</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-5.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/jhon.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Richard Highet</h5>
                   <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>                
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-6.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/confident.webp" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Frank Foerderer</h5>
                   <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>                
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
-                  <img src="assets/images/home/test-7.jpg" class="img-circle img-responsive" />
+                  <img src="assets/images/home/senior.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Hila Friedmann</h5>
-                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>
-                  <p>He has done for us such an amazing REACT application in a few days, was fast and responsive, and so committed!</p>                
+                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>     
                </div>
             </div>
          </div>
