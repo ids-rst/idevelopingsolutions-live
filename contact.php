@@ -126,11 +126,15 @@ if (isset($_POST['send_mail'])) {
     
   </div>
   <div class="map-canvas pt-120 md-pt-80">
-    <iframe id="gmap_canvas"
-      src="https://maps.google.com/maps?q=Dalhouise%20road%20pathankot&t=&z=13&ie=UTF8&iwloc=&output=embed"
-      frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a
-      href="https://123movies-to.org"></a><br>
-    <a href="https://www.embedgooglemap.net"></a>
+    <div class="map-responsive">
+      <iframe 
+        src="https://maps.google.com/maps?hl=en&q=idevelopingsolution&t=&z=14&ie=UTF8&iwloc=B&output=embed"
+        frameborder="0"
+        scrolling="no"
+        allowfullscreen
+        loading="lazy">
+      </iframe>
+    </div>
   </div>
 </div>
 </div>
