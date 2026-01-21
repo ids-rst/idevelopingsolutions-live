@@ -83,7 +83,7 @@
             </div>
             <div class="col-lg-5">
                <div class="copyright">
-                  <p>Copyright © 2018-2025. <a title="I Developing Sloutions Company"><strong>iDeveloping Solutions Company Pvt. Ltd </strong></a></p>
+                  <p>Copyright © 2018-2026. <a title="I Developing Sloutions Company"><strong>iDeveloping Solutions Company Pvt. Ltd </strong></a></p>
                </div>
             </div>
          </div>
