@@ -376,9 +376,115 @@
    </div>
 </div>
 <!-- Services Section End -->
+<style>
+.darkbg {
+   background:#103c62 !important;
+}
+section {
+    padding: 50px 0;
+}
+.section-heading {
+    margin-bottom: 30px;
+    color:#fff;
+}
+.hm-portfolio{
+   background-color:#042a4ceb ;
+}
+
+.btn-box {
+   display: flex;
+   gap: 15px;
+}
+.btn {
+   border-radius: 5px;
+   background: #E46238;
+   color: #fff;
+   font-size: 16px;
+   padding: 10px 45px;
+   position: relative;
+   overflow: hidden;
+}
+.btn.btn-border {
+   border: 1px solid #fff;
+   background: none;
+   color: #fff;
+}
+.btn.btn-border:focus{
+  box-shadow: none;
+}
+.btn.btn-border:hover{
+   background-image: linear-gradient(90deg, rgb(3, 69, 127) 10%, rgb(28, 165, 220) 100%);
+   border-color: rgb(28 165 220);
+}
+.portfolio-list ul {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+.portfolio-list li {
+    width: 50%;
+    padding: 0 10px;
+}
+.portfolio-area {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all linear .2s;
+}
+.portfolio-area:hover {
+    transform: scale(1.2);
+}
+.orange-line {
+    background: #fff;
+    width: 50px;
+    height: 1px;
+    margin-left: 0;
+}
+</style>
+<section class="hm-portfolio text-white">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="section-heading">
+          <h2 class="text-white">Our Portfolio</h2>
+          <hr class="orange-line">
+          <p>Our projects showcase a combination of modern UI design and powerful development solutions. We focus on creating user-friendly interfaces that provide a smooth and engaging experience. Each project is carefully designed with clean layouts, responsive design, and strong functionality. From concept to deployment, we ensure high-quality development and visually appealing UI. Our work reflects our commitment to innovation, usability, and performance. Explore our completed projects to see how we turn ideas into effective digital solutions.</p>
+        </div>
+        <div class="btn-box"> 
+         <a class="readon discover more" href="/contact.php" rel="nofollow">Ask for a quote</a> 
+         <a class="readon discover btn btn-border" href="portfolio.php" rel="nofollow">Take A Look</a> </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="portfolio-list">
+          <ul>
+            <li>
+              <div class="portfolio-area"> <img alt="Brics" src="assets/images/home/A1.jpg"> </div>
+            </li>
+            <li>
+              <div class="portfolio-area"> <img alt="Rexx" src="assets/images/home/A4.jpg"> </div>
+            </li>
+            <li>
+              <div class="portfolio-area"> <img alt="Clean Group" src="assets/images/home/A3.jpg"> </div>
+            </li>
+            <li>
+              <div class="portfolio-area"> <img alt="CA Portal" src="assets/images/home/A2.jpg"> </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
 <!-----Tab Section--------->
 <!-- Project Section Start -->
-<div id="rs-project" class="rs-project style8 modify1  pb-120 md-pb-80">
+<!-- <div id="rs-project" class="rs-project style8 modify1  pb-120 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
          <h2 class="title">Projects that We have Done</h2>
@@ -576,6 +682,68 @@
          </div>
       </div>
    </div>
+</div> -->
+<!-- Process Section Start -->
+<div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
+   <div class="container pt-relative">
+      <div class="sec-title2 text-center mb-45">
+         <span class="sub-text">Process</span>
+         <h2 class="title title2">
+            Steps we Follow for Complement
+         </h2>
+         <div class="heading-line"></div>
+      </div>
+      <div class="row">
+         <div class="col-lg-3 col-sm-6 md-mb-50">
+            <div class="addon-process">
+               <div class="process-wrap">
+                  <div class="process-img">
+                     <img src="assets/images/home/p1.png" alt="">
+                  </div>
+                  <div class="process-text">
+                     <h3 class="title">Discovery</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-sm-6 md-mb-50">
+            <div class="addon-process">
+               <div class="process-wrap">
+                  <div class="process-img">
+                     <img src="assets/images/home/p2.png" alt="">
+                  </div>
+                  <div class="process-text">
+                     <h3 class="title"> Planning</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-sm-6">
+            <div class="addon-process">
+               <div class="process-wrap">
+                  <div class="process-img">
+                     <img src="assets/images/home/p3.png" alt="">
+                  </div>
+                  <div class="process-text">
+                     <h3 class="title">Execute</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-sm-6">
+            <div class="addon-process">
+               <div class="process-wrap">
+                  <div class="process-img">
+                     <img src="assets/images/home/p4.png" alt="">
+                  </div>
+                  <div class="process-text">
+                     <h3 class="title">Deliver</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </div>
 <div class="rs-call-us bg1 pt-120 md-pt-80">
    <div class="container">
@@ -644,68 +812,100 @@
    </div>
 </div>
 <!-- Counter Section Start End-->
-<!-- Process Section Start -->
-<div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
-   <div class="container pt-relative">
-      <div class="sec-title2 text-center mb-45">
-         <span class="sub-text">Process</span>
-         <h2 class="title title2">
-            Steps we Follow for Complement
-         </h2>
-         <div class="heading-line"></div>
+<section class="testimonial text-center sec-title2 pt-100 pb-100 md-pt-80 md-pb-80 rs-services">
+   <div class="container">
+      <div class="shape-animation postion-inherit">
+         <div class="shape-part">
+            <img class="dance" src="assets/images/home/s2.png" alt="images">
+         </div>
       </div>
-      <div class="row">
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p1.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Discovery</h3>
-                  </div>
+      <div class="title">
+         Testimonial
+      </div>
+      <div class="heading-line"></div>
+      <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
+         <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/image3.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Roxanne Hicks</h5>
+                  <p> Excellent job as always, I use Vivek frequently and he is a great problem solver and has vast technical knowledge. Will use Vivek whenever I need assistance, Highly recommend.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/download.jpeg" class="img-circle img-responsive" />
+                  <h5 class="testimonial" >Henrik Kuepping</h5>
+                  <p>This wasn't our first project with Vivek and not our last.During the project he over delivered and made things even better than we suggested.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/images (4).jpeg" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Monique Padillag</h5>
+                  <p>I had the pleasure of working with Vivek on a recent project, and I couldn't be more impressed with their work. From the very beginning, they demonstrated a high level of professionalism and expertise that exceeded my expectations.</p>                 
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/download.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Matthew Kroll</h5>
+                  <p>Vivek was an excellent communicator and delivered expert level gravity forms for me. He also collaborated with my other team members to help with various API integrations and designing web pages. He is the full package and I will certainly hire him again. Thank you for your hard work Vivek.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/istockphoto.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial">Dina Colada</h5>
+                  <p>Working with Vivek from iDeveloping Solutions was an absolute delight! 🌟</p>
+                  <p>We needed someone to update Open AI strings and fields in our systems, and Vivek exceeded our expectations. He brought a touch of magic to the project, turning the ordinary into the extraordinary. 🪄</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/download (1).jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Bill Deputy</h5>
+                  <p>I had some programming done by Vivek and could not be happier. He customized my site and made it 200% more user-friendly. He automated the sign-up process for customers who purchased my courses and created a custom plugin to protect his work from being destroyed by updates. He performed above and beyond my expectations, all at a very reasonable price. Can't wait to work with him again on my next project.</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/download (2).jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Jay Meadows</h5>
+                  <p>After vetting many freelancers for a relatively complex and multifaceted task involving Gravity Forms and another lesser-known plugin, Vivek provided the clearest response and demonstrated a deep understanding of the tasks. (This included a file upload in Gravity Forms that tied into published products in WooCommerce and a gamified buying system... so, again, it was a tricky project.)</p>
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/jhon.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Richard Highet</h5>
+                  <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>                
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/confident.webp" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Frank Foerderer</h5>
+                  <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>                
+               </div>
+            </div>
+            <div class="carousel-item">
+               <div class="testimonial4_slide">
+                  <img src="assets/images/home/senior.jpg" class="img-circle img-responsive" />
+                  <h5 class="testimonial"> Hila Friedmann</h5>
+                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>     
                </div>
             </div>
          </div>
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p2.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title"> Planning</h3>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p3.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Execute</h3>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p4.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Deliver</h3>
-                  </div>
-               </div>
-            </div>
-         </div>
+         <a class="carousel-control-next" href="#testimonial4" data-slide="prev">
+            <span><i class="fa fa-angle-right"></i></span>
+         </a>
+         <a class="carousel-control-prev" href="#testimonial4" data-slide="next">
+            <span><i class="fa fa-angle-left"></i></span>
+         </a>
       </div>
    </div>
-</div>
+</section>
 <!-- Process Section End -->
 <!-- Case Study Section Start -->
 <div class="rs-case-study primary-background">
@@ -802,106 +1002,13 @@
    </div>
 </div>
 <!-- Case Study Section Start -->
-<section class="testimonial text-center sec-title2 pt-100 pb-100 md-pt-80 md-pb-80 rs-services">
-   <div class="container">
-      <div class="shape-animation postion-inherit">
-         <div class="shape-part">
-            <img class="dance" src="assets/images/home/s2.png" alt="images">
-         </div>
-      </div>
-      <div class="title">
-         Testimonial
-      </div>
-      <div class="heading-line"></div>
-      <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
-         <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/image3.jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial">Roxanne Hicks</h5>
-                  <p> Excellent job as always, I use Vivek frequently and he is a great problem solver and has vast technical knowledge. Will use Vivek whenever I need assistance, Highly recommend.</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/download.jpeg" class="img-circle img-responsive" />
-                  <h5 class="testimonial" >Henrik Kuepping</h5>
-                  <p>This wasn't our first project with Vivek and not our last.During the project he over delivered and made things even better than we suggested.</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/images (4).jpeg" class="img-circle img-responsive" />
-                  <h5 class="testimonial">Monique Padillag</h5>
-                  <p>I had the pleasure of working with Vivek on a recent project, and I couldn't be more impressed with their work. From the very beginning, they demonstrated a high level of professionalism and expertise that exceeded my expectations.</p>                 
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/download.jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial">Matthew Kroll</h5>
-                  <p>Vivek was an excellent communicator and delivered expert level gravity forms for me. He also collaborated with my other team members to help with various API integrations and designing web pages. He is the full package and I will certainly hire him again. Thank you for your hard work Vivek.</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/istockphoto.jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial">Dina Colada</h5>
-                  <p>Working with Vivek from iDeveloping Solutions was an absolute delight! 🌟</p>
-                  <p>We needed someone to update Open AI strings and fields in our systems, and Vivek exceeded our expectations. He brought a touch of magic to the project, turning the ordinary into the extraordinary. 🪄</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/download (1).jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial"> Bill Deputy</h5>
-                  <p>I had some programming done by Vivek and could not be happier. He customized my site and made it 200% more user-friendly. He automated the sign-up process for customers who purchased my courses and created a custom plugin to protect his work from being destroyed by updates. He performed above and beyond my expectations, all at a very reasonable price. Can't wait to work with him again on my next project.</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/download (2).jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial"> Jay Meadows</h5>
-                  <p>After vetting many freelancers for a relatively complex and multifaceted task involving Gravity Forms and another lesser-known plugin, Vivek provided the clearest response and demonstrated a deep understanding of the tasks. (This included a file upload in Gravity Forms that tied into published products in WooCommerce and a gamified buying system... so, again, it was a tricky project.)</p>
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/jhon.jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial"> Richard Highet</h5>
-                  <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>                
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/confident.webp" class="img-circle img-responsive" />
-                  <h5 class="testimonial"> Frank Foerderer</h5>
-                  <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>                
-               </div>
-            </div>
-            <div class="carousel-item">
-               <div class="testimonial4_slide">
-                  <img src="assets/images/home/senior.jpg" class="img-circle img-responsive" />
-                  <h5 class="testimonial"> Hila Friedmann</h5>
-                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>     
-               </div>
-            </div>
-         </div>
-         <a class="carousel-control-next" href="#testimonial4" data-slide="prev">
-            <span><i class="fa fa-angle-right"></i></span>
-         </a>
-         <a class="carousel-control-prev" href="#testimonial4" data-slide="next">
-            <span><i class="fa fa-angle-left"></i></span>
-         </a>
-      </div>
-   </div>
-</section>
+
 <!-- Technology Section Start -->
-<div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
+<div class="rs-technology style2 bg-color pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text white-color">Technology Index</span>
-         <h2 class="title title2 white-color">
+         <span class="sub-text">Technology Index</span>
+         <h2 class="title title2">
             Technology that We Are Using For Our Valued Customers
          </h2>
       </div>
