@@ -7548,13 +7548,13 @@ body .search-modal .close:hover {
 
 .rs-technology.style2 .technology-wrap .rs-grid-figure .logo-img a .hover-img {
     transition: all ease .4s;
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
     display: block;
     position: absolute;
     z-index: 1;
     top: 0;
     left: 0;
-    visibility: hidden;
+    /* visibility: hidden; */
 }
 
 .rs-technology.style2 .technology-wrap .rs-grid-figure .logo-img a .main-img {
