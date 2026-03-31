@@ -80,54 +80,91 @@
 </div>
 <!-- About Section End -->
 <!-- Services Section Start -->
-<div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
+<div class="block why-choose background-block">
    <div class="container">
-      <div class="sec-title2 text-center mb-45">
-         <h2 class="title">
-            WHY CHOOSE US?
-         </h2>
-         <div class="heading-line"></div>
-         <div class="desc desc-text">
-            We are specialized in Software and technical consultancy services, that helps us to achieve great working relationships and peace of mind for our clients.
+      <div class="row wow">
+         <div class="block-header col-md-12">
+            <h2 class="title">Why Choose Us
+            </h2>
+            <p class="text">Our team comprises IT professionals who are well-versed in the latest technologies.</p>
          </div>
       </div>
-      <div class="row">
-         <div class="col-md-4">
-            <div class="services-item">
-               <div class="services-icon">
-                  <img src="assets/images/home/1.png" alt="">
+      <div class="row wow">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/it-expert.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Focus on Quality Work</h2>
-                  <p class="desc">
-                     We always look for ways to improve the user experience and increase the conversion rates with our quality work.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Professional IT Expert</h3>
+                  <p class="text">Our team comprises IT professionals who are well-versed in the latest technologies.</p>
                </div>
             </div>
          </div>
-         <div class="col-md-4">
-            <div class="services-item active">
-               <div class="services-icon">
-                  <img src="assets/images/home/2.png" alt="">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/customer.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Long-Term Relationships</a></h2>
-                  <p class="desc">
-                     We know that when you give a person a chance, they will make it work. We believe in building long-term relationships with our clients and helping them to get succeed.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Fully Customised Service</h3>
+                  <p class="text">To save you from unnecessary complications, every service is customized to suit your needs.</p>
                </div>
             </div>
          </div>
-         <div class="col-md-4">
-            <div class="services-item">
-               <div class="services-icon">
-                  <img src="assets/images/home/3.png" alt="">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/goal.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Quality Work is Our Passion</a></h2>
-                  <p class="desc">
-                     We offer scalable and high-quality Software and Web development services for vast industries, as customer satisfaction is the ultimate goal.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Goal Oriented Approach</h3>
+                  <p class="text">Goal-focused work to validate appropriate inclusions and deliver the best design.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/track_record.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Proven Track Record</h3>
+                  <p class="text">An unbeatable track record with a 100% success rate, driven by our commitment to quality and perfection.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/delivery.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Fast & Timely Delivery</h3>
+                  <p class="text">The pace of work maintained by our professionals ensures on-time delivery.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/support.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">24*7 Support</h3>
+                  <p class="text">Our IT experts are available 24/7 to assist you in the best way possible.</p>
                </div>
             </div>
          </div>
