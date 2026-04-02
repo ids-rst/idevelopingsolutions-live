@@ -645,67 +645,229 @@
 </div>
 <!-- Counter Section Start End-->
 <!-- Process Section Start -->
-<div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
+<div class="rs-process pt-relative style2 pt-180 md-pt-80 md-pb-73">
    <div class="container pt-relative">
       <div class="sec-title2 text-center mb-45">
          <span class="sub-text">Process</span>
-         <h2 class="title title2">
-            Steps we Follow for Complement
-         </h2>
+         <h2 class="">Steps we Follow for Complement</h2>
          <div class="heading-line"></div>
       </div>
+   </div> 
+</div>     
+<section class="timeline-section">
+   <div class="timeline-line">
+      <svg viewBox="0 0 1200 200" preserveAspectRatio="none">
+         <path d="M0,100 
+         C150,0 300,200 450,100 
+         S750,0 900,100 
+         S1050,200 1200,100"
+         fill="none"
+         stroke="#03457F"
+         stroke-width="2"
+         stroke-dasharray="6,6"/>
+      </svg>
+   </div>
+    <div class="container">
       <div class="row">
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p1.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Discovery</h3>
-                  </div>
-               </div>
+         <div class="col timeline-item col-a">
+            <div class="step-circle">01</div>
+            <div class="info-box">
+               <h5>Discover</h5>
+               <p>Our design approach focuses on simplicity and creating meaningful experiences.</p>
             </div>
          </div>
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p2.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title"> Planning</h3>
-                  </div>
+
+         <div class="col timeline-item col-b">
+               <div class="step-circle">02</div>
+               <div class="info-box">
+                  <h5>Planning</h5>
+                  <p>We denounce righteous indignation and dislike those who are easily deceived.</p>
                </div>
-            </div>
          </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p3.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Execute</h3>
-                  </div>
+
+         <div class="col timeline-item col-c">
+               <div class="step-circle">03</div>
+               <div class="info-box">
+                  <h5>Design & Dev</h5>
+                  <p>At this stage, we provide web services based on your requirements.</p>
                </div>
-            </div>
          </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p4.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Deliver</h3>
-                  </div>
+
+         <div class="col timeline-item col-d">
+               <div class="step-circle">04</div>
+               <div class="info-box">
+                  <h5>Testing</h5>
+                  <p>Our design approach focuses on simplicity and creating impactful solutions..</p>
                </div>
-            </div>
+         </div>
+
+         <div class="col timeline-item col-e">
+               <div class="step-circle">05</div>
+               <div class="info-box">
+                  <h5>Project Deliver</h5>
+                  <p>We denounce righteous indignation and dislike those who are beguiled.</p>
+               </div>
          </div>
       </div>
-   </div>
-</div>
+    </div>
+
+</section>
+
+
+<style>
+
+
+/* Section */
+.timeline-section {
+   position: relative;
+   padding:140px 0 80px;
+   overflow: hidden;
+   overflow: hidden;
+   margin: 3% 0;
+}
+.col-a{
+   margin-top:-60px;
+}
+.col-b{
+   margin-top:-10px;
+}
+.col-d{
+   margin-top:-60px;
+}
+
+/* SVG Line */
+.timeline-line {
+   position: absolute;
+   top: 0px;
+   left: 50%;
+   width: 100%;
+   z-index: 1;
+   max-width: 1300px;
+   margin: 0 auto;
+   transform: translate(-50%, 0);
+}
+
+.timeline-line svg {
+   width: 100%;
+   height: 120px;
+   transform: rotate(180deg);
+}
+
+/* Step Item */
+.timeline-item {
+    position: relative;
+    text-align: center;
+    z-index: 2;
+}
+
+/* Circle */
+.step-circle {
+    width: 60px;
+    height: 60px;
+    background:#03457F;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    position: absolute;
+    top: -70px;
+    left: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 0 8px rgba(108,99,255,0.15);
+    transition: 0.3s;
+    font-size:22px;
+}
+
+/* Card */
+.info-box {
+   background: #f7f7f9;
+   padding: 25px;
+   border-radius: 10px;
+   transition: 0.4s ease;
+   position: relative;
+   text-align:left;
+   margin-top:50px;
+}
+
+.info-box:before {
+   content: "";
+   position: absolute;
+   left: 50%;
+   transform: translateX(-50%);
+   bottom: 99%;
+   -webkit-transition: 0.3s;
+   -o-transition: 0.3s;
+   transition: 0.3s;
+   width: 20px;
+   height: 15px;
+   -webkit-clip-path: polygon(100% 100%, 50% 0%, 0% 100%);
+   clip-path: polygon(100% 100%, 50% 0%, 0% 100%);
+   background-color: #f7f7f9;
+   opacity: 0.3;
+}
+
+.info-box:hover{
+   background:#03457F;
+}
+.info-box:hover:before{
+   background-color: #03457F;
+   opacity: 1;
+}
+.info-box:hover h5,
+.info-box:hover p{
+   color:#fff;
+} 
+
+.info-box h5 {
+   font-weight: 600;
+   margin-bottom: 10px;
+   font-size:20px;
+}
+
+.info-box p {
+   font-size: 14px;
+   color: #555;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+   .timeline-line {
+      display: none;
+   }
+   .col-a,
+   .col-d,
+   .col-b{
+    margin-top:auto;
+   }
+   .info-box {
+     margin-top: 30px;
+   }
+   .step-circle {
+      position: relative;
+      top: 0;
+      margin-bottom: 10px;
+      left: 50px;
+   }
+   .timeline-item {
+      margin-bottom: 60px;
+      flex: 0 0 100%;
+   }
+   .timeline-section {
+      padding: 10px 0px;
+      margin: 0px 0px;
+   }
+
+   .info-box:before {
+      display:none;
+   }
+}
+</style>
+
+
+
+
 <!-- Process Section End -->
 <!-- Case Study Section Start -->
 <div class="rs-case-study primary-background">
