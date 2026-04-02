@@ -564,7 +564,7 @@ ul.listing-style span {
 
 /* mmmmm */
 
-.owl-nav .owl-prev i.fa.fa-angle-left {
+/* .owl-nav .owl-prev i.fa.fa-angle-left {
 	padding-top: 18px;
 	padding-right: 9px;
 }
@@ -572,7 +572,7 @@ ul.listing-style span {
 .owl-next i.fa.fa-angle-right {
 	padding-left: 6px;
 	padding-top: 18px;
-}
+} */
 
 /* our-team-css */
 
@@ -776,6 +776,9 @@ body .cs-gallery.img4.our-team {
   width: 100%;
   height: 100%;
   border: 0;
+}
+body .bg12{
+	background: #1ca5dc9c;
 }
 @media (min-width: 576px) {
 	.col-sm-5 {
