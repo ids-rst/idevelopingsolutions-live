@@ -730,7 +730,7 @@
                <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-a.jpeg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-a.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -741,7 +741,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-b.jpeg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-b.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -752,7 +752,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-c.jpeg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-c.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -763,7 +763,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-d.jpeg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-d.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -774,7 +774,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-e.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-e.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -785,7 +785,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/1-f.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-d.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
