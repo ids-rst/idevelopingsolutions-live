@@ -777,6 +777,9 @@ body .cs-gallery.img4.our-team {
   height: 100%;
   border: 0;
 }
+
+
+
 @media (min-width: 576px) {
 	.col-sm-5 {
 		flex: 0 0 20%;
@@ -791,7 +794,6 @@ body .cs-gallery.img4.our-team {
 	}
 
 }
-
 /* @media (min-width: 992px){
 .col-lg-5 {
 	flex: 0 0 20%;
@@ -804,3 +806,4 @@ body .cs-gallery.img4.our-team {
 		max-width: 20%;
 	}
 }
+

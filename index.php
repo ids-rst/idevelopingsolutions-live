@@ -832,37 +832,7 @@
 }
 
 /* Responsive */
-@media (max-width: 768px) {
-   .timeline-line {
-      display: none;
-   }
-   .col-a,
-   .col-d,
-   .col-b{
-    margin-top:auto;
-   }
-   .info-box {
-     margin-top: 30px;
-   }
-   .step-circle {
-      position: relative;
-      top: 0;
-      margin-bottom: 10px;
-      left: 50px;
-   }
-   .timeline-item {
-      margin-bottom: 60px;
-      flex: 0 0 100%;
-   }
-   .timeline-section {
-      padding: 10px 0px;
-      margin: 0px 0px;
-   }
 
-   .info-box:before {
-      display:none;
-   }
-}
 </style>
 
 
