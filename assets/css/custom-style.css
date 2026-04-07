@@ -782,6 +782,7 @@ body .cs-gallery.img4.our-team {
 		flex: 0 0 20%;
 		max-width: 20%;
 	}
+
 }
 
 @media (min-width: 768px) {
@@ -802,5 +803,14 @@ body .cs-gallery.img4.our-team {
 	.col-xl-5 {
 		flex: 0 0 20%;
 		max-width: 20%;
+	}
+}
+@media screen and (max-width:576px){
+	.rs-contact .contact-box .address-box {
+		flex-direction: column;
+		gap: 10px;
+	}
+	body .rs-contact .contact-box .address-box .address-text a {
+    font-size: 18px;
 	}
 }
