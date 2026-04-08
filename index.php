@@ -43,13 +43,13 @@
 </div>
 <!-- Slider Section End -->
 <!-- About Section Start -->
-<div class="rs-about style3 pt-120 pb-120 md-pt-75 md-pb-80">
+<div class="rs-about style3 pt-120 pb-180 md-pt-75 md-pb-80">
    <div class="container">
       <div class="row align-items-center">
-         <div class="col-lg-5">
-            <div class="sec-title2 mb-30">
+         <div class="col-lg-6">
+            <div class="sec-title2 mb-30 relative">
                <div class="sub-text">IDeveloping Solutions</div>
-               <h2 class=" title title3 pb-20">
+               <h2 class="pb-0">
                   Your IT Partner for The Next Generation Technology
                </h2>
                <div class="desc desc2">
@@ -65,14 +65,42 @@
                </div>
             </div>
          </div>
-         <div class="col-lg-7 md-pt-40">
+         <div class="col-lg-6 md-pt-40">
             <div class="rs-animation-image">
                <div class="pattern-img">
-                  <img src="assets/images/home/round.png" alt="">
+                  <img src="https://easyquickweb.com/wp-content/uploads/2024/09/Affordable-Web-Designers-in-Hyderabad-EasyQuickWeb.jpg" alt="">
                </div>
-               <div class="middle-img">
+               <div class="cs-experience">
+                     <h2 class="experience-count">8</h2>
+                     <p><strong>Years of<br> Experience</strong></p>
+               </div>
+               <style>
+                  .cs-experience {
+                     margin: 0px 0px 0px 0px;
+                     padding: 30px 45px 25px 45px;
+                     background-color: #F2F5FA;
+                     border-style: solid;
+                     border-width: 15px 15px 15px 15px;
+                     border-color: #FFFFFF;
+                     border-radius: 34px 34px 34px 0px;
+                     max-width: 210px;
+                     position: absolute;
+                     bottom: -102px;
+                     right: 34px;
+                  }
+                  .cs-experience p{
+                     margin: 0;
+                     font-size: 18px;
+                     line-height: 1.5;
+                  }
+                  .experience-count{
+                     margin: 0 0 0 -5px; 
+                     font-size: clamp(40px, 8vw, 100px);
+                  }
+               </style>
+               <!-- <div class="middle-img">
                   <img class="dance3" src="assets/images/home/about1.png" alt="">
-               </div>
+               </div> -->
             </div>
          </div>
       </div>
