@@ -14,9 +14,9 @@
 <div class="rs-project style5 pt-120 pb-120 md-pt-80 md-pb-80">
 	<div class="container">
 		<div class="sec-title2 text-center mb-45">
-			<h2 class="title">Projects that We have Done</h2>
+			<h2 class="title reveal">Projects that We have Done</h2>
 			<div class="heading-line"></div>
-			<div class="desc desc-text">
+			<div class="desc desc-text reveal">
 				We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
 			</div>
 		</div>
@@ -173,8 +173,8 @@
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
 	<div class="container">
 		<div class="sec-title2 text-center mb-45">
-			<span class="sub-text white-color">Technology Index</span>
-			<h2 class="title title2 white-color">
+			<span class="sub-text white-color reveal">Technology Index</span>
+			<h2 class="title title2 white-color reveal">
 				Technology that We Are Using For Our Valued Customers
 			</h2>
 		</div>

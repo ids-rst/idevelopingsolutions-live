@@ -30,7 +30,7 @@
           <div class="desc">
             Our Experienced team can help you create a compelling, modern online store with flexible functionality, cutting edge design, and seamless user experiences. We build custom solutions for all types of businesses. Our experienced and talented team will work closely with you to create your unique digital presence using the latest eCommerce technologies.
           </div>
-          <div class="btn-part mt-45">
+          <div class="btn-part mt-45 reveal">
             <a class="readon learn-more" href="contact.php">Contact Us</a>
           </div>
         </div>
@@ -52,7 +52,7 @@
               <img src="assets/images/services/1.png" alt="Images">
             </div>
             <div class="services-content">
-              <h3 class="services-title">Expert Peoples</h3>
+              <h3 class="services-title reveal">Expert Peoples</h3>
               <p class="services-desc">
                 We have a network of top performers across the globe.
               </p>
@@ -65,7 +65,7 @@
               <img src="assets/images/services/2.png" alt="Images">
             </div>
             <div class="services-content">
-              <h3 class="services-title">First Growing Process</h3>
+              <h3 class="services-title reveal">First Growing Process</h3>
               <p class="services-desc">
                 Grow your business with the first growing process.
               </p>
@@ -78,7 +78,7 @@
               <img src="assets/images/services/3.png" alt="Images">
             </div>
             <div class="services-content">
-              <h3 class="services-title">Creative Ideas</h3>
+              <h3 class="services-title reveal">Creative Ideas</h3>
               <p class="services-desc">
                 Ideas that stick in the minds of our customers.
               </p>
@@ -101,8 +101,8 @@
       </div>
       <div class="col-lg-6">
         <div class="sec-title4 mb-30">
-          <div class="sub-text choose">Why Choose Us</div>
-          <h2 class="title">
+          <div class="sub-text choose reveal">Why Choose Us</div>
+          <h2 class="title reveal">
             Our Competency Level
           </h2>
         </div>

@@ -82,7 +82,7 @@ if (isset($_POST['send_mail'])) {
         <div class="contact-widget">
           <div class="sec-title2 mb-40">
             <span class="sub-text contact mb-15">Get In Touch</span>
-            <h2 class="title testi-title">Ready to Get Started?</h2>
+            <h2 class="title testi-title reveal">Ready to Get Started?</h2>
             <p>Feel free to contact us</p>
           </div>
           <div id="form-messages"></div>
@@ -116,11 +116,6 @@ if (isset($_POST['send_mail'])) {
                   </div>
                 </div>
               </div>
-              <!-- <div class="btn-part">
-                <div class="form-group mb-0">
-                  <input class="readon learn-more submit send_contact_mail" type="submit" name="send_mail" value="Send Message">
-                </div>
-              </div> -->
               <div class="btn-part">
                 <div class="form-group mb-0">
                   <button class="readon learn-more submit send_contact_mail" type="submit" id="submitBtn">
@@ -129,72 +124,6 @@ if (isset($_POST['send_mail'])) {
                   </button>
                 </div>
               </div>
-               <style>
-               .btn-loader {
-                   display: none;
-                  width: 18px;
-                  height: 18px;
-                  border: 2px solid #fff;
-                  border-top: 2px solid transparent;
-                  border-radius: 50%;
-                  animation: spin 0.6s linear infinite;
-                  margin-left: 10px;
-                }
-
-                @keyframes spin {
-                  100% {
-                    transform: rotate(360deg);
-                  }
-                }
-
-                button.loading .btn-loader {
-                  display: inline-block;
-                }
-
-                button.loading .btn-text {
-                  opacity: 0.6;
-                }
-
-                /* Loading state */
-                .send_contact_mail.loading .btn-text {
-                  visibility: hidden; /* hide text but keep space */
-                }
-
-                .send_contact_mail {
-                  position: relative;
-                  display: inline-flex;
-                  align-items: center;
-                  justify-content: center;
-              }
-
-                /* Hide loader by default */
-                .send_contact_mail .btn-loader {
-                    display: none;
-                }
-
-                /* Loading state */
-                .send_contact_mail.loading .btn-text {
-                    visibility: hidden; /* hide text but keep space */
-                }
-
-                .send_contact_mail.loading .btn-loader {
-                    display: inline-block;
-                    width: 20px;
-                    height: 20px;
-                    border: 2px solid #fff;
-                    border-top: 2px solid transparent;
-                    border-radius: 50%;
-                    animation: spin 0.6s linear infinite;
-                    position: absolute;
-                }
-
-                /* Spinner animation */
-                @keyframes spin {
-                    100% {
-                        transform: rotate(360deg);
-                    }
-                }
-              </style>
             </fieldset>
           </form>
           

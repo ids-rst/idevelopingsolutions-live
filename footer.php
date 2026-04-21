@@ -155,7 +155,7 @@
 <!-- pointer js -->
 <script src="assets/js/pointer.js"></script>
 <!-- contact form js -->
-<script src="assets/js/contact-form.js?v=<?php echo time(); ?>"></script>"></script>
+<script src="assets/js/contact-form.js?v=<?php echo time(); ?>"></script>
 <!-- main js -->
 <script src="assets/js/main.js"></script>
 <script src="assets/js/particles.min.js"></script>
