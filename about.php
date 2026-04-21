@@ -57,7 +57,7 @@
 <div class="rs-about style3 pb-120  md-pb-80 pt-0 pt-md-5">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <h2 class="title">OUR MISSION AND VISION</h2>
+         <h2 class="title reveal">OUR MISSION AND VISION</h2>
          <div class="heading-line"></div>
       </div>
       <div class="row align-items-center">
@@ -74,11 +74,11 @@
             </div>
             <div class="d-sm-flex">
                <div class="col-md-6">
-                  <h4 class="mb-2"> <i class="fa fa-bullseye primary-color" aria-hidden="true"></i> Our Mission</h4>
+                  <h4 class="mb-2 reveal"> <i class="fa fa-bullseye primary-color" aria-hidden="true"></i> Our Mission</h4>
                   <p>We strive to maintain a high level of quality in everything we do, and we are always looking for new ways to improve our services.</p>
                </div>
                <div class="col-md-6">
-                  <h4 class="mb-2"><i class="fa fa-eye primary-color" aria-hidden="true"></i> Our Vision</h4>
+                  <h4 class="mb-2 reveal"><i class="fa fa-eye primary-color" aria-hidden="true"></i> Our Vision</h4>
                   <p>We want to be known for our high-quality, reliable services and for our commitment to meeting the needs of our clients.</p>
                </div>
             </div>
@@ -98,8 +98,8 @@
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text white-color">Technology Index</span>
-         <h2 class="title title2 white-color">
+         <span class="sub-text white-color reveal">Technology Index</span>
+         <h2 class="title title2 white-color reveal">
             Technology that We Are Using For Our Valued Customers
          </h2>
       </div>
