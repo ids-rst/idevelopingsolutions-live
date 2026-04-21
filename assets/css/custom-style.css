@@ -777,6 +777,17 @@ body .cs-gallery.img4.our-team {
   height: 100%;
   border: 0;
 }
+
+.reveal {
+  opacity: 0;
+  transform: translateY(60px);
+  transition: 0.8s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
 @media (min-width: 576px) {
 	.col-sm-5 {
 		flex: 0 0 20%;

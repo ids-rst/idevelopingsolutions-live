@@ -52,7 +52,7 @@
               <img src="assets/images/services/android-logo.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
-              <h3 class="services-title mb-0">Android App Development</h3>
+              <h3 class="services-title mb-0 reveal">Android App Development</h3>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
               <img src="assets/images/services/small-ios.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
-              <h3 class="services-title mb-0">iOS App Development</h3>
+              <h3 class="services-title mb-0 reveal">iOS App Development</h3>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@
               <img src="assets/images/services/Phonegap.png" alt="Images" style="height:auto;"> 
             </div>
             <div class="services-content d-flex align-items-center">
-              <h3 class="services-title mb-0">Hybrid App Development</h3>
+              <h3 class="services-title mb-0 reveal">Hybrid App Development</h3>
             </div>
           </div>
         </div>
@@ -92,8 +92,8 @@
       </div>
       <div class="col-lg-6">
         <div class="sec-title4 mb-30">
-          <div class="sub-text choose">Why Choose Us</div>
-          <h2 class="title">
+          <div class="sub-text choose reveal">Why Choose Us</div>
+          <h2 class="title reveal">
             See How We Can Help You Increase Success with Technology.
           </h2>
           <div class="heading-line custom-line" style="margin-bottom:20px"></div>

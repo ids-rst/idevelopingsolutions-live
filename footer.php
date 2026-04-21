@@ -3,7 +3,7 @@
 <footer id="rs-footer" class="rs-footer">
    <div class="footer-top">
       <div class="container">
-         <div class="footer-ribon">
+         <div class="footer-ribon reveal">
             <a href="contact.php" style="color: #fff;"><span>Get in Touch</span></a>
          </div>
          <div class="row">
@@ -164,6 +164,19 @@
         var curent_link = jQuery(".active_link").val();
         jQuery('a[href="'+curent_link+'"]').addClass('active');
     });
+  const reveals = document.querySelectorAll(".reveal");
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add("active");
+    }
+  });
+}, {
+  threshold: 0.2
+});
+
+reveals.forEach((el) => observer.observe(el));
 </script>
 </body>
 </html>

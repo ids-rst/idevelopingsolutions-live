@@ -48,8 +48,8 @@
       <div class="row align-items-center">
          <div class="col-lg-5">
             <div class="sec-title2 mb-30">
-               <div class="sub-text">IDeveloping Solutions</div>
-               <h2 class=" title title3 pb-20">
+               <div class="sub-text reveal">IDeveloping Solutions</div>
+               <h2 class=" title title3 pb-20 reveal">
                   Your IT Partner for The Next Generation Technology
                </h2>
                <div class="desc desc2">
@@ -83,7 +83,7 @@
 <div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <h2 class="title">
+         <h2 class="title reveal">
             WHY CHOOSE US?
          </h2>
          <div class="heading-line"></div>
@@ -139,8 +139,8 @@
 <div class="rs-services  modify1 style2 pt-120 pb-120 md-pt-80 md-pb-80 mt-3">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text">Our Latest Services</span>
-         <h2 class="title">
+         <span class="sub-text reveal">Our Latest Services</span>
+         <h2 class="title reveal">
             IT Services that we provide for your success
          </h2>
       </div>
@@ -381,7 +381,7 @@
 <div id="rs-project" class="rs-project style8 modify1  pb-120 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <h2 class="title">Projects that We have Done</h2>
+         <h2 class="title reveal">Projects that We have Done</h2>
          <div class="heading-line"></div>
          <div class="desc desc-text">
             We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
@@ -594,7 +594,7 @@
                </div>
                <div class="sec-title3">
                   <span class="sub-text">CALL US 24/7</span>
-                  <h2 class="title">+91-7009239004</h2>
+                  <h2 class="title reveal">+91-7009239004</h2>
                   <p class="desc">We have a team of professionals who are always ready to take your project on board. We provide the best service and support for your project. Join us today!</p>
                </div>
                <div class="btn-part mt-40 md-mb-60">
@@ -648,8 +648,8 @@
 <div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
    <div class="container pt-relative">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text">Process</span>
-         <h2 class="title title2">
+         <span class="sub-text reveal">Process</span>
+         <h2 class="title title2 reveal">
             Steps we Follow for Complement
          </h2>
          <div class="heading-line"></div>
@@ -713,8 +713,8 @@
       <div class="col-lg-4 padding-0">
          <div class="case-study bg12 mod">
             <div class="sec-title2 mb-30">
-               <div class="sub-text white-color">Case Study</div>
-               <h2 class="title testi-title white-color pb-20">
+               <div class="sub-text white-color reveal">Case Study</div>
+               <h2 class="title testi-title white-color pb-20 reveal">
                   How IDS Team will assist you
                </h2>
                <div class="desc-big">
@@ -809,7 +809,7 @@
             <img class="dance" src="assets/images/home/s2.png" alt="images">
          </div>
       </div>
-      <div class="title">
+      <div class="title reveal">
          Testimonial
       </div>
       <div class="heading-line"></div>
@@ -900,8 +900,8 @@
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text white-color">Technology Index</span>
-         <h2 class="title title2 white-color">
+         <span class="sub-text white-color reveal">Technology Index</span>
+         <h2 class="title title2 white-color reveal">
             Technology that We Are Using For Our Valued Customers
          </h2>
       </div>
