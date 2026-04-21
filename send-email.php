@@ -5,7 +5,8 @@
     }
     public function send_email_with_ajax($data){
       if(empty($data)){
-        return ;
+        echo 'false';
+        exit;
       }
       $message = '
         <html>

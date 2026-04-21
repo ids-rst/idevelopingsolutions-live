@@ -1,31 +1,48 @@
   jQuery('document').ready( function(){
     jQuery(".send_contact_mail").on('click', (function (event) {
         var dataReady = true;
-        console.log('yes working');
         event.preventDefault();
-        jQuery('form#contact-form .from-control').each(function(){
-            console.log(jQuery(this).attr('name'));
+
+        var $btn = jQuery(this);
+        if ($btn.hasClass("loading")) return;
+        $btn.addClass("loading");
+        
+        // Determine which form was submitted
+        var $form = jQuery(this).closest('form');
+        var formId = $form.attr('id');
+        
+        // Validate all fields in the current form
+        $form.find('.from-control').each(function(){
             if(jQuery(this).val() == ""){
-              jQuery(this).next().show();
+              jQuery(this).next('.invalid-feedback').show();
+              $btn.removeClass("loading");
               dataReady = false;
             }else{
-                jQuery(this).next().hide();
+                jQuery(this).next('.invalid-feedback').hide();
             }
         })
-        var name = jQuery("#name").val();
-        var email = jQuery("#email").val();
-        var phone = jQuery("#phone").val();
-        var message = jQuery("#message").val();
+        
+        // Get values based on form type
+        var name = $form.find('[name="name"]').val();
+        var email = $form.find('[name="email"]').val();
+        var phone = $form.find('[name="phone"]').val();
+        var service = $form.find('[name="service"]').val();
+        var message = $form.find('[name="message"]').val();
+        
+        // If service field exists (quote form), include it in the message
+        if(service){
+            message = "Service Requested: " + service + "\n\nProject Details:\n" + message;
+        }
 
         var emailRegex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
         if(!emailRegex.test(email)){
-            jQuery("#email").next().show();
+            $form.find('[name="email"]').next('.invalid-feedback').show();
             dataReady = false;
         }
 
         var phoneRegex = /^\d*$/;
         if(!phoneRegex.test(phone) || phone.length < 10){
-            jQuery("#phone").next().show();
+            $form.find('[name="phone"]').next('.invalid-feedback').show();
             dataReady = false;
         }
 
@@ -45,21 +62,47 @@
             type: "POST",
             data: details,
             success: function (return_data) {
-                jQuery(".send-mail-responce").val(return_data);
-                var responce = return_data;
+                var responce = return_data.trim();
                 if(responce == 'true'){
-                    jQuery(".contact-widget").hide();
-                    jQuery(".email-sent-message").show();
+                    // Show success message
+                    if(formId == 'contact-form'){
+                        jQuery(".contact-widget").hide();
+                        jQuery(".email-sent-message").show();
+                    } else if(formId == 'user-contact-form'){
+                        jQuery("#user-contact-form").hide();
+                        jQuery(".quote-sent-message").show();
+                    }
                 }else{
-                    jQuery('.emil-sent-failed-message').show();
+                    // Show error message using a better UI element
+                    var errorMessage = jQuery('<div class="alert alert-danger alert-dismissible fade show" role="alert">Sorry, something went wrong. Please try again later.<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+                    if(formId == 'contact-form'){
+                        jQuery("#form-messages").html(errorMessage);
+                    } else if(formId == 'user-contact-form'){
+                        jQuery("#user-contact-form").prepend(errorMessage);
+                    }
                 }
             },
             error: function () {
-                // jQuery('.loading-area').hide();
                 console.log("Something went wrong");
+                var errorMessage = jQuery('<div class="alert alert-danger alert-dismissible fade show" role="alert">Sorry, there was an error submitting the form. Please try again.<button type="button" class="close" data-dismiss="alert">&times;</button></div>');
+                if(formId == 'contact-form'){
+                    jQuery("#form-messages").html(errorMessage);
+                } else if(formId == 'user-contact-form'){
+                    jQuery("#user-contact-form").prepend(errorMessage);
+                }
             },
+            complete: function () {
+                $btn.removeClass("loading");
+            }
         });
     })
     )
-
+    
+    // Reset quote form when modal is closed
+    jQuery('#quoteModal').on('hidden.bs.modal', function() {
+        jQuery("#user-contact-form").show();
+        jQuery(".quote-sent-message").hide();
+        jQuery("#user-contact-form")[0].reset();
+        jQuery("#user-contact-form .alert").remove();
+    });
 })

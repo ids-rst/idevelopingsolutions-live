@@ -48,8 +48,8 @@
       <div class="row align-items-center">
          <div class="col-lg-5">
             <div class="sec-title2 mb-30">
-               <div class="sub-text">IDeveloping Solutions</div>
-               <h2 class=" title title3 pb-20">
+               <div class="sub-text reveal">IDeveloping Solutions</div>
+               <h2 class=" title title3 pb-20 reveal">
                   Your IT Partner for The Next Generation Technology
                </h2>
                <div class="desc desc2">
@@ -80,54 +80,91 @@
 </div>
 <!-- About Section End -->
 <!-- Services Section Start -->
-<div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
+<div class="block why-choose background-block">
    <div class="container">
-      <div class="sec-title2 text-center mb-45">
-         <h2 class="title">
-            WHY CHOOSE US?
-         </h2>
-         <div class="heading-line"></div>
-         <div class="desc desc-text">
-            We are specialized in Software and technical consultancy services, that helps us to achieve great working relationships and peace of mind for our clients.
+      <div class="row wow">
+         <div class="block-header col-md-12">
+            <h2 class="title reveal">Why Choose Us
+            </h2>
+            <p class="text reveal">Our team comprises IT professionals who are well-versed in the latest technologies.</p>
          </div>
       </div>
-      <div class="row">
-         <div class="col-md-4">
-            <div class="services-item">
-               <div class="services-icon">
-                  <img src="assets/images/home/1.png" alt="">
+      <div class="row wow">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/it-expert.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Focus on Quality Work</h2>
-                  <p class="desc">
-                     We always look for ways to improve the user experience and increase the conversion rates with our quality work.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Professional IT Expert</h3>
+                  <p class="text">Our team comprises IT professionals who are well-versed in the latest technologies.</p>
                </div>
             </div>
          </div>
-         <div class="col-md-4">
-            <div class="services-item active">
-               <div class="services-icon">
-                  <img src="assets/images/home/2.png" alt="">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/customer.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Long-Term Relationships</a></h2>
-                  <p class="desc">
-                     We know that when you give a person a chance, they will make it work. We believe in building long-term relationships with our clients and helping them to get succeed.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Fully Customised Service</h3>
+                  <p class="text">To save you from unnecessary complications, every service is customized to suit your needs.</p>
                </div>
             </div>
          </div>
-         <div class="col-md-4">
-            <div class="services-item">
-               <div class="services-icon">
-                  <img src="assets/images/home/3.png" alt="">
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/goal.png" alt="">
                </div>
-               <div class="services-content">
-                  <h2 class="title">Quality Work is Our Passion</a></h2>
-                  <p class="desc">
-                     We offer scalable and high-quality Software and Web development services for vast industries, as customer satisfaction is the ultimate goal.
-                  </p>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Goal Oriented Approach</h3>
+                  <p class="text">Goal-focused work to validate appropriate inclusions and deliver the best design.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/track_record.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Proven Track Record</h3>
+                  <p class="text">An unbeatable track record with a 100% success rate, driven by our commitment to quality and perfection.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/delivery.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">Fast & Timely Delivery</h3>
+                  <p class="text">The pace of work maintained by our professionals ensures on-time delivery.</p>
+               </div>
+            </div>
+         </div>
+         <div class="entry col-sm-6">
+            <div class="image-wrapper">
+               <div class="box">
+                  <img src="assets/images/home/support.png" alt="">
+               </div>
+            </div>
+            <div class="content">
+               <div class="cell-view">
+                  <h3 class="title">24*7 Support</h3>
+                  <p class="text">Our IT experts are available 24/7 to assist you in the best way possible.</p>
                </div>
             </div>
          </div>
@@ -139,8 +176,8 @@
 <div class="rs-services  modify1 style2 pt-120 pb-120 md-pt-80 md-pb-80 mt-3">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text">Our Latest Services</span>
-         <h2 class="title">
+         <span class="sub-text reveal">Our Latest Services</span>
+         <h2 class="title reveal">
             IT Services that we provide for your success
          </h2>
       </div>
@@ -381,7 +418,7 @@
 <div id="rs-project" class="rs-project style8 modify1  pb-120 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <h2 class="title">Projects that We have Done</h2>
+         <h2 class="title reveal">Projects that We have Done</h2>
          <div class="heading-line"></div>
          <div class="desc desc-text">
             We are a team of young, passionate, enthusiastic, and creative individuals with the capabilities to deliver state-of-the-art software products.
@@ -594,7 +631,7 @@
                </div>
                <div class="sec-title3">
                   <span class="sub-text">CALL US 24/7</span>
-                  <h2 class="title">+91-7009239004</h2>
+                  <h2 class="title reveal">+91-7009239004</h2>
                   <p class="desc">We have a team of professionals who are always ready to take your project on board. We provide the best service and support for your project. Join us today!</p>
                </div>
                <div class="btn-part mt-40 md-mb-60">
@@ -645,67 +682,74 @@
 </div>
 <!-- Counter Section Start End-->
 <!-- Process Section Start -->
-<div class="rs-process pt-relative style2 pt-120 pb-120 md-pt-80 md-pb-73">
+<div class="rs-process pt-relative style2 pt-180 md-pt-80 md-pb-73">
    <div class="container pt-relative">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text">Process</span>
-         <h2 class="title title2">
-            Steps we Follow for Complement
-         </h2>
+         <span class="sub-text reveal">Process</span>
+         <h2 class="reveal">Steps we Follow for Complement</h2>
          <div class="heading-line"></div>
       </div>
+   </div> 
+</div>     
+<section class="timeline-section">
+   <div class="timeline-line">
+      <svg viewBox="0 0 1200 200" preserveAspectRatio="none">
+         <path d="M0,100 
+         C150,0 300,200 450,100 
+         S750,0 900,100 
+         S1050,200 1200,100"
+         fill="none"
+         stroke="#03457F"
+         stroke-width="2"
+         stroke-dasharray="6,6"/>
+      </svg>
+   </div>
+    <div class="container">
       <div class="row">
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p1.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Discovery</h3>
-                  </div>
-               </div>
+         <div class="col timeline-item col-a">
+            <div class="step-circle">01</div>
+            <div class="info-box">
+               <h5>Discover</h5>
+               <p>Our design approach focuses on simplicity and creating meaningful experiences.</p>
             </div>
          </div>
-         <div class="col-lg-3 col-sm-6 md-mb-50">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p2.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title"> Planning</h3>
-                  </div>
+
+         <div class="col timeline-item col-b">
+               <div class="step-circle">02</div>
+               <div class="info-box">
+                  <h5>Planning</h5>
+                  <p>We denounce righteous indignation and dislike those who are easily deceived.</p>
                </div>
-            </div>
          </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p3.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Execute</h3>
-                  </div>
+
+         <div class="col timeline-item col-c">
+               <div class="step-circle">03</div>
+               <div class="info-box">
+                  <h5>Design & Dev</h5>
+                  <p>At this stage, we provide web services based on your requirements.</p>
                </div>
-            </div>
          </div>
-         <div class="col-lg-3 col-sm-6">
-            <div class="addon-process">
-               <div class="process-wrap">
-                  <div class="process-img">
-                     <img src="assets/images/home/p4.png" alt="">
-                  </div>
-                  <div class="process-text">
-                     <h3 class="title">Deliver</h3>
-                  </div>
+
+         <div class="col timeline-item col-d">
+               <div class="step-circle">04</div>
+               <div class="info-box">
+                  <h5>Testing</h5>
+                  <p>Our design approach focuses on simplicity and creating impactful solutions..</p>
                </div>
-            </div>
+         </div>
+
+         <div class="col timeline-item col-e">
+               <div class="step-circle">05</div>
+               <div class="info-box">
+                  <h5>Project Deliver</h5>
+                  <p>We denounce righteous indignation and dislike those who are beguiled.</p>
+               </div>
          </div>
       </div>
-   </div>
-</div>
+    </div>
+
+</section>
+
 <!-- Process Section End -->
 <!-- Case Study Section Start -->
 <div class="rs-case-study primary-background">
@@ -713,8 +757,8 @@
       <div class="col-lg-4 padding-0">
          <div class="case-study bg12 mod">
             <div class="sec-title2 mb-30">
-               <div class="sub-text white-color">Case Study</div>
-               <h2 class="title testi-title white-color pb-20">
+               <div class="sub-text white-color reveal">Case Study</div>
+               <h2 class="title testi-title white-color pb-20 reveal">
                   How IDS Team will assist you
                </h2>
                <div class="desc-big">
@@ -730,7 +774,7 @@
                <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/project-design.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-a.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -741,7 +785,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/growth.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-b.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -752,18 +796,18 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/latform.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-c.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
-                           <h3 class="title"><a>latform Integration</a></h3>
+                           <h3 class="title"><a>Platform Integration</a></h3>
                            <span class="category"><a>IT Technology</a></span>
                         </div>
                      </div>
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/Innovative.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-d.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -774,7 +818,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/product.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-e.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -785,7 +829,7 @@
                   </div>
                   <div class="project-item">
                      <div class="project-img">
-                        <a href="case-studies-style1.html"><img src="assets/images/home/Analytic.jpg" alt="images"></a>
+                        <a href="case-studies-style1.html"><img src="assets/images/home/1-1-d.jpg" alt="images"></a>
                      </div>
                      <div class="project-content">
                         <div class="portfolio-inner">
@@ -809,7 +853,7 @@
             <img class="dance" src="assets/images/home/s2.png" alt="images">
          </div>
       </div>
-      <div class="title">
+      <div class="title reveal">
          Testimonial
       </div>
       <div class="heading-line"></div>
@@ -900,8 +944,8 @@
 <div class="rs-technology style2 bg11 pt-110 pb-115 md-pt-75 md-pb-80">
    <div class="container">
       <div class="sec-title2 text-center mb-45">
-         <span class="sub-text white-color">Technology Index</span>
-         <h2 class="title title2 white-color">
+         <span class="sub-text white-color reveal">Technology Index</span>
+         <h2 class="title title2 white-color reveal">
             Technology that We Are Using For Our Valued Customers
          </h2>
       </div>

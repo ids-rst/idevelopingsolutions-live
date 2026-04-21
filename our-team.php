@@ -33,43 +33,10 @@
                   data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true"
                   data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3"
                   data-md-device-nav="false" data-md-device-dots="true">
-                  <!-- <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
-                           <a> <img src="assets/images/our-team/sanjeev.jpg" alt="Sanjeev"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Sanjeev</a></h4>
-                        <span class="designation"><a>Director</a></span>
-                     </div>
-                  </div> -->
-                  <!-- <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
-                           <a><img src="assets/images/our-team/vivek.jpg" alt="vivek"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Vivek</a></h4>
-                        <span class="designation"><a>Director</a></span>
-                     </div>
-                  </div> -->
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
-                           <a><img src="assets/images/our-team/simran.jpg" alt="Simran"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Simran</a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
-                     </div>
-                  </div>
-                  <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
-                           <a><img src="assets/images/our-team/rajindersingh.jpg" alt="rajinder"></a>
+                           <a><img src="assets/images/our-team/rajinder-ids.jpg" alt="rajinder"></a>
                         </div>
                      </div>
                      <div class="team-content text-center">
@@ -91,34 +58,12 @@
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
-                           <a><img src="assets/images/our-team/ashish-ids.jpg" alt="ashish"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Ashish</a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
-                     </div>
-                  </div>
-                  <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
                            <a><img src="assets/images/our-team/pankajchouhan.jpg" alt="pankajchouhan"></a>
                         </div>
                      </div>
                      <div class="team-content text-center">
                         <h4 class="person-name"><a>Pankaj Chouhan</a></h4>
-                        <span class="designation"><a>Software Engineer</a></span>
-                     </div>
-                  </div>
-                  <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
-                           <a><img src="assets/images/our-team/sunil-ids.jpg" alt="sunil"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Sunil Kumar</a></h4>
-                        <span class="designation"><a>Software Engineer</a></span>
+                        <span class="designation"><a>Senior Software Engineer</a></span>
                      </div>
                   </div>
                   <div class="team-item-wrap">
@@ -135,23 +80,12 @@
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
-                           <a><img src="assets/images/our-team/Pankajsingh.jpg" alt="Pankajsingh"></a>
-                        </div>
-                     </div>
-                     <div class="team-content text-center">
-                        <h4 class="person-name"><a>Pankaj Singh</a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
-                     </div>
-                  </div>
-                  <div class="team-item-wrap">
-                     <div class="team-wrap">
-                        <div class="image-inner">
                            <a><img src="assets/images/our-team/sandeep.jpg" alt="Sandeeppathania"></a>
                         </div>
                      </div>
                      <div class="team-content text-center">
                         <h4 class="person-name"><a>Sandeep Pathania</a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
+                        <span class="designation"><a>Software Engineer</a></span>
                      </div>
                   </div>
                   <div class="team-item-wrap">
@@ -162,18 +96,18 @@
                      </div>
                      <div class="team-content text-center">
                         <h4 class="person-name"><a>Harminder Singh </a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
+                        <span class="designation"><a>Software Engineer</a></span>
                      </div>
                   </div>
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
-                           <a><img src="assets/images/our-team/shubhamdesigner.jpg" alt="Shubhamdesigner"></a>
+                           <a><img src="assets/images/our-team/deepak-ids.jpg" alt="deepak"></a>
                         </div>
                      </div>
                      <div class="team-content text-center">
-                        <h4 class="person-name"><a>Shubham</a></h4>
-                        <span class="designation"><a>Junior Graphic & Web Designer</a></span>
+                        <h4 class="person-name"><a>Deepak</a></h4>
+                        <span class="designation"><a>Software Engineer</a></span>
                      </div>
                   </div>
                   <div class="team-item-wrap">
@@ -184,7 +118,7 @@
                      </div>
                      <div class="team-content text-center">
                         <h4 class="person-name"><a>Gourav Salotra</a></h4>
-                        <span class="designation"><a>Junior Software Engineer</a></span>
+                        <span class="designation"><a>Software Engineer</a></span>
                      </div>
                   </div>
                   <div class="team-item-wrap">
@@ -201,11 +135,55 @@
                   <div class="team-item-wrap">
                      <div class="team-wrap">
                         <div class="image-inner">
-                           <a><img src="assets/images/our-team/mitesh.png" alt="aman"></a>
+                           <a><img src="assets/images/our-team/gourav-sharma-ids.jpg" alt="Gourav"></a>
                         </div>
                      </div>
                      <div class="team-content text-center">
-                        <h4 class="person-name"><a>Mitesh Thakur</a></h4>
+                        <h4 class="person-name"><a>Gourav Sharma</a></h4>
+                        <span class="designation"><a>Junior Software Engineer</a></span>
+                     </div>
+                  </div>
+                  <div class="team-item-wrap">
+                     <div class="team-wrap">
+                        <div class="image-inner">
+                           <a><img src="assets/images/our-team/shallabh-ids.jpg" alt="Shallabh"></a>
+                        </div>
+                     </div>
+                     <div class="team-content text-center">
+                        <h4 class="person-name"><a>Shallabh Kohal</a></h4>
+                        <span class="designation"><a>Junior Software Engineer</a></span>
+                     </div>
+                  </div>
+                  <div class="team-item-wrap">
+                     <div class="team-wrap">
+                        <div class="image-inner">
+                           <a><img src="assets/images/our-team/piyush-ids.jpg" alt="piyush"></a>
+                        </div>
+                     </div>
+                     <div class="team-content text-center">
+                        <h4 class="person-name"><a>Piyush</a></h4>
+                        <span class="designation"><a>Junior Software Engineer</a></span>
+                     </div>
+                  </div>
+                  <div class="team-item-wrap">
+                     <div class="team-wrap">
+                        <div class="image-inner">
+                           <a><img src="assets/images/our-team/sanjeev-kumar-ids.jpg" alt="sanjeev Kumar"></a>
+                        </div>
+                     </div>
+                     <div class="team-content text-center">
+                        <h4 class="person-name"><a>Sanjeev Kumar</a></h4>
+                        <span class="designation"><a>Junior Software Engineer</a></span>
+                     </div>
+                  </div>
+                  <div class="team-item-wrap">
+                     <div class="team-wrap">
+                        <div class="image-inner">
+                           <a><img src="assets/images/our-team/rudeshwar-ids.jpg" alt="rudeshwar"></a>
+                        </div>
+                     </div>
+                     <div class="team-content text-center">
+                        <h4 class="person-name"><a>Rudeshwar</a></h4>
                         <span class="designation"><a>Junior Software Engineer</a></span>
                      </div>
                   </div>
