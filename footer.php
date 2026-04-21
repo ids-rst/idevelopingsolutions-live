@@ -3,7 +3,7 @@
 <footer id="rs-footer" class="rs-footer">
    <div class="footer-top">
       <div class="container">
-         <div class="footer-ribon">
+         <div class="footer-ribon reveal">
             <a href="contact.php" style="color: #fff;"><span>Get in Touch</span></a>
          </div>
          <div class="row">
@@ -56,7 +56,7 @@
                   <li>
                      <i class="flaticon-clock-1"></i>
                      <div class="desc">
-                        Opening Hours: 9:00am - 6:00pm
+                        Opening Hours: 9:30am - 6:30pm
                      </div>
                   </li>
                </ul>
@@ -68,6 +68,12 @@
          </div>
       </div>
    </div>
+   <a href="https://wa.me/917009239004" class="wa-btn" target="_blank">
+      <span class="wa-tooltip">Chat with us</span>
+      <svg viewBox="0 0 32 32" class="wa-icon">
+         <path d="M16 .396C7.163.396 0 7.56 0 16.396c0 2.89.756 5.608 2.08 7.977L0 32l7.82-2.047A15.92 15.92 0 0 0 16 32c8.837 0 16-7.163 16-16.004C32 7.56 24.837.396 16 .396zm0 29.263c-2.507 0-4.93-.654-7.064-1.896l-.506-.3-4.642 1.216 1.237-4.525-.33-.522A13.24 13.24 0 0 1 2.76 16.396c0-7.287 5.953-13.24 13.24-13.24s13.24 5.953 13.24 13.24-5.953 13.263-13.24 13.263zm7.298-9.963c-.4-.2-2.37-1.17-2.737-1.303-.367-.133-.634-.2-.9.2-.267.4-1.034 1.303-1.267 1.57-.234.267-.467.3-.867.1-.4-.2-1.69-.622-3.217-1.98-1.188-1.06-1.99-2.37-2.224-2.77-.234-.4-.025-.616.176-.816.18-.178.4-.467.6-.7.2-.234.267-.4.4-.667.133-.267.067-.5-.033-.7-.1-.2-.9-2.17-1.234-2.97-.325-.78-.655-.674-.9-.687l-.767-.013c-.267 0-.7.1-1.067.5-.367.4-1.4 1.367-1.4 3.333 0 1.967 1.433 3.867 1.633 4.133.2.267 2.82 4.3 6.833 6.033.955.413 1.7.66 2.28.844.958.305 1.83.262 2.52.159.77-.115 2.37-.967 2.704-1.9.334-.933.334-1.733.234-1.9-.1-.167-.367-.267-.767-.467z"/>
+      </svg>
+   </a>
    <div class="footer-bottom">
       <div class="container">
          <div class="row y-middle">
@@ -149,7 +155,7 @@
 <!-- pointer js -->
 <script src="assets/js/pointer.js"></script>
 <!-- contact form js -->
-<script src="assets/js/contact-form.js"></script>
+<script src="assets/js/contact-form.js?v=<?php echo time(); ?>"></script>"></script>
 <!-- main js -->
 <script src="assets/js/main.js"></script>
 <script src="assets/js/particles.min.js"></script>
@@ -160,10 +166,21 @@
 ?>
 <input type="hidden" class="active_link" value="<?php echo $url ?>">
 <script>
-    jQuery('document').ready(function(){
-        var curent_link = jQuery(".active_link").val();
-        jQuery('a[href="'+curent_link+'"]').addClass('active');
-    });
+   jQuery('document').ready(function(){
+      var curent_link = jQuery(".active_link").val();
+      jQuery('a[href="'+curent_link+'"]').addClass('active');
+   });
+   const reveals = document.querySelectorAll(".reveal");
+   const observer = new IntersectionObserver((entries) => {
+   entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+         entry.target.classList.add("active");
+      }
+   });
+   }, {
+   threshold: 0.2
+   });
+   reveals.forEach((el) => observer.observe(el));
 </script>
 </body>
 </html>
