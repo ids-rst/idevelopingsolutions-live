@@ -491,7 +491,7 @@
                </div>
             </a>
          </div>
-         <div class="col-lg-4 col-md-6 grid-item filter2 filter3">
+         <!-- <div class="col-lg-4 col-md-6 grid-item filter2 filter3">
             <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
@@ -505,7 +505,7 @@
                   </div>
                </div>
             </a>
-         </div>
+         </div> -->
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
                <div class="project-item mb-30">
@@ -521,7 +521,7 @@
                </div>
             </a>
          </div>
-         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+         <!-- <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
                <div class="project-item mb-30">
                   <div class="project-img">
@@ -535,7 +535,7 @@
                   </div>
                </div>
             </a>
-         </div>
+         </div> -->
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2 ">
             <a href="   ">
                <div class="project-item mb-30">
