@@ -21,7 +21,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-4 col-md-6 mb-30">
+			<!-- <div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
 						<img src="assets/images/portfolio/watchflix.jpg" alt="images">
@@ -36,8 +36,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-4 col-md-6 sm-mb-25">
+			</div> -->
+			<!-- <div class="col-lg-4 col-md-6 sm-mb-25">
 				<div class="project-item">
 					<div class="project-img">
 						<img src="assets/images/portfolio/buybulk.jpg" alt="images">
@@ -52,11 +52,11 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="col-lg-4 col-md-6 sm-mb-25">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/garvityform.jpg" alt="images">
+						<img src="assets/images/portfolio/Gravity Forms Multi-Step.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="gform.php">
@@ -69,7 +69,23 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-4 col-md-6 mb-30">
+			<div class="col-lg-4 col-md-6 sm-mb-25">
+				<div class="project-item">
+					<div class="project-img">
+						<img src="assets/images/portfolio/Gravity Forms Multi-Step.png" alt="images">
+					</div>
+					<div class="project-content">
+						<a href="gform.php">
+							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+						</a>
+						<div class="project-inner">
+							<h3 class="title"><a href="gform.php">Gravity Form UI/UX </a></h3>
+							<span class="category"><a href="gform.php">Gravity Form</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
 						<img src="assets/images/portfolio/logo-design.jpg" alt="images">
@@ -84,11 +100,11 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/fristaid-port.jpg" alt="images">
+						<img src="assets/images/portfolio/firstaid.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="firstaid.php">
@@ -104,7 +120,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
+						<img src="assets/images/portfolio/American-Fiddle.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="americanfiddle.php">
@@ -120,7 +136,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/dental.jpg" alt="images">
+						<img src="assets/images/portfolio/Dental.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="dentalexcellence.php">
@@ -136,7 +152,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/redfox.jpg" alt="images">
+						<img src="assets/images/portfolio/RedFox Auto Parts Showcase.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="ids-redfox.php">
@@ -152,7 +168,7 @@
 			<div class="col-lg-4 col-md-6 mb-30">
 				<div class="project-item">
 					<div class="project-img">
-						<img src="assets/images/portfolio/usercard.jpg" alt="images">
+						<img src="assets/images/portfolio/bot.png" alt="images">
 					</div>
 					<div class="project-content">
 						<a href="usercard.php">
@@ -160,6 +176,22 @@
 						</a>
 						<div class="project-inner">
 							<h3 class="title"><a href="usercard.php">User Card</a></h3>
+							<span class="category"><a href="usercard.php">Development</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 mb-30">
+				<div class="project-item">
+					<div class="project-img">
+						<img src="assets/images/portfolio/bargainz.png" alt="images">
+					</div>
+					<div class="project-content">
+						<a href="usercard.php">
+							<div class="p-icon"><i class="fa fa-angle-right"></i></div>
+						</a>
+						<div class="project-inner">
+							<h3 class="title"><a href="usercard.php">Bargainz App Design</a></h3>
 							<span class="category"><a href="usercard.php">Development</a></span>
 						</div>
 					</div>

@@ -2,7 +2,7 @@
 <!-- Slider Section Start -->
 
 <div class="rs-slider style2">
-<div id="particles-js"></div>
+   <div id="particles-js"></div>
    <div class="rs-carousel owl-carousel " data-loop="true" data-items="1" data-margin="0" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="1" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="1" data-md-device-nav="true" data-md-device-dots="false">
       <div class="slider-content slide1">
          <div class="container">
@@ -425,14 +425,14 @@
          </div>
       </div>
       <div class="gridFilter text-center mb-50">
-         <button class="active" data-filter="*">All</button>
-         <button data-filter=".filter1">Wordpress</button>
-         <button data-filter=".filter2">Web Design</button>
-         <button data-filter=".filter3">Development</button>
+         <button class="active" data-filter="*"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -4px; margin-right: 6px;"><rect x="3" y="3" width="7" height="7" rx="1"></rect><rect x="14" y="3" width="7" height="7" rx="1"></rect><rect x="3" y="14" width="7" height="7" rx="1"></rect><rect x="14" y="14" width="7" height="7" rx="1"></rect></svg>All</button>
+         <button data-filter=".filter1"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -4px; margin-right: 6px;"><circle cx="12" cy="12" r="10"></circle><path d="M5.5 7.5 8.2 17l3.8-7 3.8 7 2.7-9.5"></path></svg>Wordpress</button>
+         <button data-filter=".filter2"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -4px; margin-right: 6px;"><rect x="3" y="4" width="18" height="12" rx="1.5"></rect><path d="M8 20h8M12 16v4"></path></svg>Web Design</button>
+         <button data-filter=".filter3"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -4px; margin-right: 6px;"><path d="m8 8-4 4 4 4m8-8 4 4-4 4m-2-10-4 12"></path></svg>Development</button>
       </div>
       <div class="row grid">
-         <div class="col-lg-4 col-md-6 grid-item filter1">
-            <a href="buybulkshrooms.php">
+         <!-- <div class="col-lg-4 col-md-6 grid-item filter1">
+            <a href="buybulkshrooms.php"> 
                <div class="project-item mb-30">
                   <div class="project-img">
                      <img src="assets/images/portfolio/buybulk.jpg" alt="buybulkshrooms">
@@ -445,8 +445,8 @@
                   </div>
                </div>
             </a>
-         </div>
-         <div class="col-lg-4 col-md-6 grid-item filter3 filter1">
+         </div> -->
+         <!-- <div class="col-lg-4 col-md-6 grid-item filter3 filter1">
             <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
@@ -460,12 +460,12 @@
                   </div>
                </div>
             </a>
-         </div>
+         </div> -->
          <div class="col-lg-4 col-md-6 grid-item filter3 filter2">
             <a href="#">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/redfox.jpg" alt="images">
+                     <img src="assets/images/portfolio/RedFox Auto Parts Showcase.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -476,7 +476,7 @@
                </div>
             </a>
          </div>
-         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+         <!-- <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="firstaid.php">
                <div class="project-item mb-30">
                   <div class="project-img">
@@ -490,7 +490,7 @@
                   </div>
                </div>
             </a>
-         </div>
+         </div> -->
          <!-- <div class="col-lg-4 col-md-6 grid-item filter2 filter3">
             <a href="#">
                <div class="project-item mb-30">
@@ -509,8 +509,23 @@
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
             <a href="   ">
                <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/Gravity Forms Multi-Step.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Gravity Forms Multi-Step</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
                   <div class="project-img ">
-                     <img src="assets/images/portfolio/6.jpg" alt="images">
+                     <img src="assets/images/portfolio/bargainz.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -540,7 +555,7 @@
             <a href="   ">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/american-portfolio.jpg" alt="images">
+                     <img src="assets/images/portfolio/American-Fiddle.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -555,7 +570,7 @@
             <a href="dentalexcellence.php">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/dental.jpg" alt="images">
+                     <img src="assets/images/portfolio/Dental.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -570,7 +585,7 @@
             <a href="   ">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/usercard.jpg" alt="images">
+                     <img src="assets/images/portfolio/bot.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
@@ -582,14 +597,14 @@
             </a>
          </div>
          <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
-            <a href="   ">
+            <a href="https://staging3.wearephillipisland.com.au/">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/Nutcracker.png" alt="images">
+                     <img src="assets/images/portfolio/Phillip Island.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
-                        <h3 class="title text-white">Nutcracker Sweet</h3>
+                        <h3 class="title text-white">Phillip Island</h3>
                         <span class="category text-white">Development</span>
                      </div>
                   </div>
@@ -600,11 +615,26 @@
             <a href="   ">
                <div class="project-item mb-30">
                   <div class="project-img">
-                     <img src="assets/images/portfolio/topai.png" alt="images">
+                     <img src="assets/images/portfolio/Gravity Forms Progress Bar.png" alt="images">
                   </div>
                   <div class="project-content">
                      <div class="project-inner">
-                        <h3 class="title text-white">Top Ai Directory</h3>
+                        <h3 class="title text-white">Gravity Forms Progress Bar</h3>
+                        <span class="category text-white">Development</span>
+                     </div>
+                  </div>
+               </div>
+            </a>
+         </div>
+         <div class="col-lg-4 col-md-6 grid-item filter1 filter2">
+            <a href="   ">
+               <div class="project-item mb-30">
+                  <div class="project-img">
+                     <img src="assets/images/portfolio/cube.png" alt="images">
+                  </div>
+                  <div class="project-content">
+                     <div class="project-inner">
+                        <h3 class="title text-white">Cube INSULATION</h3>
                         <span class="category text-white">Development</span>
                      </div>
                   </div>
@@ -647,7 +677,7 @@
 <div class="rs-counter main-counter-home">
    <div class="counter-top-area text-center bg2">
       <div class="row">
-         <div class="col-lg-4 md-mb-40">
+         <div class="col-lg-4 col-sm-4 md-mb-40">
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
@@ -657,7 +687,7 @@
                </div>
             </div>
          </div>
-         <div class="col-lg-4 md-mb-40">
+         <div class="col-lg-4 col-sm-4 md-mb-40">
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
@@ -667,7 +697,7 @@
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 col-sm-4">
             <div class="counter-list">
                <div class="counter-text">
                   <div class="count-number">
@@ -689,8 +719,8 @@
          <h2 class="reveal">Steps we Follow for Complement</h2>
          <div class="heading-line"></div>
       </div>
-   </div> 
-</div>     
+   </div>
+</div>
 <section class="timeline-section">
    <div class="timeline-line">
       <svg viewBox="0 0 1200 200" preserveAspectRatio="none">
@@ -698,13 +728,13 @@
          C150,0 300,200 450,100 
          S750,0 900,100 
          S1050,200 1200,100"
-         fill="none"
-         stroke="#03457F"
-         stroke-width="2"
-         stroke-dasharray="6,6"/>
+            fill="none"
+            stroke="#03457F"
+            stroke-width="2"
+            stroke-dasharray="6,6" />
       </svg>
    </div>
-    <div class="container">
+   <div class="container">
       <div class="row">
          <div class="col timeline-item col-a">
             <div class="step-circle">01</div>
@@ -715,38 +745,38 @@
          </div>
 
          <div class="col timeline-item col-b">
-               <div class="step-circle">02</div>
-               <div class="info-box">
-                  <h5>Planning</h5>
-                  <p>We denounce righteous indignation and dislike those who are easily deceived.</p>
-               </div>
+            <div class="step-circle">02</div>
+            <div class="info-box">
+               <h5>Planning</h5>
+               <p>We denounce righteous indignation and dislike those who are easily deceived.</p>
+            </div>
          </div>
 
          <div class="col timeline-item col-c">
-               <div class="step-circle">03</div>
-               <div class="info-box">
-                  <h5>Design & Dev</h5>
-                  <p>At this stage, we provide web services based on your requirements.</p>
-               </div>
+            <div class="step-circle">03</div>
+            <div class="info-box">
+               <h5>Design & Dev</h5>
+               <p>At this stage, we provide web services based on your requirements.</p>
+            </div>
          </div>
 
          <div class="col timeline-item col-d">
-               <div class="step-circle">04</div>
-               <div class="info-box">
-                  <h5>Testing</h5>
-                  <p>Our design approach focuses on simplicity and creating impactful solutions..</p>
-               </div>
+            <div class="step-circle">04</div>
+            <div class="info-box">
+               <h5>Testing</h5>
+               <p>Our design approach focuses on simplicity and creating impactful solutions..</p>
+            </div>
          </div>
 
          <div class="col timeline-item col-e">
-               <div class="step-circle">05</div>
-               <div class="info-box">
-                  <h5>Project Deliver</h5>
-                  <p>We denounce righteous indignation and dislike those who are beguiled.</p>
-               </div>
+            <div class="step-circle">05</div>
+            <div class="info-box">
+               <h5>Project Deliver</h5>
+               <p>We denounce righteous indignation and dislike those who are beguiled.</p>
+            </div>
          </div>
       </div>
-    </div>
+   </div>
 
 </section>
 
@@ -869,7 +899,7 @@
             <div class="carousel-item">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/download.jpeg" class="img-circle img-responsive" />
-                  <h5 class="testimonial" >Henrik Kuepping</h5>
+                  <h5 class="testimonial">Henrik Kuepping</h5>
                   <p>This wasn't our first project with Vivek and not our last.During the project he over delivered and made things even better than we suggested.</p>
                </div>
             </div>
@@ -877,7 +907,7 @@
                <div class="testimonial4_slide">
                   <img src="assets/images/home/images (4).jpeg" class="img-circle img-responsive" />
                   <h5 class="testimonial">Monique Padillag</h5>
-                  <p>I had the pleasure of working with Vivek on a recent project, and I couldn't be more impressed with their work. From the very beginning, they demonstrated a high level of professionalism and expertise that exceeded my expectations.</p>                 
+                  <p>I had the pleasure of working with Vivek on a recent project, and I couldn't be more impressed with their work. From the very beginning, they demonstrated a high level of professionalism and expertise that exceeded my expectations.</p>
                </div>
             </div>
             <div class="carousel-item">
@@ -913,21 +943,21 @@
                <div class="testimonial4_slide">
                   <img src="assets/images/home/jhon.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Richard Highet</h5>
-                  <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>                
+                  <p>A great experience with Vivek. A pleasure to deal with and a great solution provider, he was able to make my requested changes and where technology was limiting he offered explanations, ideas and solutions to satisfy my needs.</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/confident.webp" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Frank Foerderer</h5>
-                  <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>                
+                  <p>Vivek assisted us with a complex project. He quickly got to grips with the project and implemented the extensive requirements promptly and well. He also responded to change requests in a very short time and was always available and reliable throughout the entire project. Thank you for the good job!</p>
                </div>
             </div>
             <div class="carousel-item">
                <div class="testimonial4_slide">
                   <img src="assets/images/home/senior.jpg" class="img-circle img-responsive" />
                   <h5 class="testimonial"> Hila Friedmann</h5>
-                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>     
+                  <p>A trusted developer will take care of everything and ensure that your project will be completed no matter what!</p>
                </div>
             </div>
          </div>

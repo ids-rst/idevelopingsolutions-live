@@ -650,12 +650,15 @@ button:focus {
     -webkit-transition: .4s;
     -ms-transition: .4s;
     position: relative;
-    padding: 5px 20px;
-    border-radius: 30px;
+    padding: 10px 32px;
     border: 0;
-    border-radius: 3px;
+    border-radius: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
-
+.gridFilter button:hover {
+    background-image: linear-gradient(90deg, #03457F 10%, #1CA5DC 100%) !important;
+    color: #fff;
+}
 .gridFilter button.active {
     background: #fff;
     color: #ff5421;
@@ -1117,7 +1120,7 @@ blockquote cite:before {
 .readon.buy-now.sl-btn {
     background: rgba(0, 0, 0, 0) linear-gradient(90deg, #03457F 0%, #1d62f0 100%);
     color: #ffffff;
-    border-radius: 4px;
+    border-radius: 50px;
     font-weight: 500;
     font-size: 18px;
     text-transform: capitalize;
@@ -1159,7 +1162,7 @@ blockquote cite:before {
     padding: 17px 30px 17px 30px;
     background: transparent;
     background-image: linear-gradient(90deg, #ffffff 19%, #ffffff 100%);
-    border-radius: 4px 4px 4px 4px;
+    border-radius: 50px;
 }
 
 .readon.discover.started {
@@ -2121,7 +2124,7 @@ blockquote cite:before {
 }
 
 .sec-title2 .desc.desc-text {
-    max-width: 540px;
+    max-width: 600px;
 }
 
 .sec-title2 .desc.white-color {
@@ -2479,11 +2482,12 @@ blockquote cite:before {
     border-right: 1px solid #2a8af5;
 }
 
+
 .full-width-header .rs-header .topbar-area.style2 .topbar-contact li a:hover {
     color: #ccc;
 }
 
-.full-width-header .rs-header .topbar-area.style2 .topbar-contact li:last-child {
+.full-width-header .rs-header .topbar-area.style2 .topbar-contact li:last-child a{
     margin: 0;
     border: none;
 }
@@ -2883,7 +2887,7 @@ blockquote cite:before {
     font-size: 14px;
     background-image: linear-gradient(90deg, #03457F 10%, #1CA5DC 100%);
     padding: 13px 22px;
-    border-radius: 3px;
+    border-radius: 50px;
     color: #fff;
     font-weight: 500;
 }
@@ -2948,7 +2952,7 @@ blockquote cite:before {
     font-size: 16px;
     background-image: linear-gradient(90deg, #03457F 10%, #1CA5DC 100%);
     padding: 16px 30px;
-    border-radius: 3px;
+    border-radius: 50px;
     color: #fff;
     font-weight: 500;
 }

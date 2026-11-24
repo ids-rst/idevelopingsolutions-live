@@ -56,7 +56,7 @@
                   <li>
                      <i class="flaticon-clock-1"></i>
                      <div class="desc">
-                        Opening Hours: 9:30am - 6:30pm
+                        Opening Hours: 9:00am - 6:00pm
                      </div>
                   </li>
                </ul>
@@ -64,6 +64,14 @@
             <div class="col-lg-3 col-md-12 col-sm-12">
                <h3 class="widget-title">Reputation</h3>
                <img src="assets/images/footer/iso-1.png">
+            </div>
+         </div>
+
+         <div class="verification-notice">
+            <div class="container">
+               <p>
+                  ⚠️ <span style="color:red;font-size: 14px; font-weight:bold">Verification Notice:</span> If our contact details appear on external documents, please contact us directly to verify authenticity.
+               </p>
             </div>
          </div>
       </div>
@@ -74,6 +82,22 @@
          <path d="M16 .396C7.163.396 0 7.56 0 16.396c0 2.89.756 5.608 2.08 7.977L0 32l7.82-2.047A15.92 15.92 0 0 0 16 32c8.837 0 16-7.163 16-16.004C32 7.56 24.837.396 16 .396zm0 29.263c-2.507 0-4.93-.654-7.064-1.896l-.506-.3-4.642 1.216 1.237-4.525-.33-.522A13.24 13.24 0 0 1 2.76 16.396c0-7.287 5.953-13.24 13.24-13.24s13.24 5.953 13.24 13.24-5.953 13.263-13.24 13.263zm7.298-9.963c-.4-.2-2.37-1.17-2.737-1.303-.367-.133-.634-.2-.9.2-.267.4-1.034 1.303-1.267 1.57-.234.267-.467.3-.867.1-.4-.2-1.69-.622-3.217-1.98-1.188-1.06-1.99-2.37-2.224-2.77-.234-.4-.025-.616.176-.816.18-.178.4-.467.6-.7.2-.234.267-.4.4-.667.133-.267.067-.5-.033-.7-.1-.2-.9-2.17-1.234-2.97-.325-.78-.655-.674-.9-.687l-.767-.013c-.267 0-.7.1-1.067.5-.367.4-1.4 1.367-1.4 3.333 0 1.967 1.433 3.867 1.633 4.133.2.267 2.82 4.3 6.833 6.033.955.413 1.7.66 2.28.844.958.305 1.83.262 2.52.159.77-.115 2.37-.967 2.704-1.9.334-.933.334-1.733.234-1.9-.1-.167-.367-.267-.767-.467z"/>
       </svg>
    </a>
+   <style>
+   .verification-notice {
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      text-align: center;
+      margin-top: 50px;
+   }
+
+   .verification-notice p {
+      margin: 0;
+      font-size: 15px;
+      font-weight: 500;
+      color: #222;
+      line-height: 1.6;
+   }
+   </style>
+   
    <div class="footer-bottom">
       <div class="container">
          <div class="row y-middle">
